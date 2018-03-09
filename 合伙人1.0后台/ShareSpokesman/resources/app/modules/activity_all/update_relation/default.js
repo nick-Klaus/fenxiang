@@ -2,7 +2,7 @@
  * Created by Administrator on 2017/8/9.
  *  活动的作用区域的修改
  */
-const moment = require('moment'); // 时间处理插件
+const moment = require('moment'); // 时间处理
 'use strict';
 exports.ready = (req, res, that) => {
 
