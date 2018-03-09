@@ -1,1 +1,0 @@
-document.write('<script src="js/default.js?t=' + new Date().getTime() + '" type="text/javascript"></script>');
