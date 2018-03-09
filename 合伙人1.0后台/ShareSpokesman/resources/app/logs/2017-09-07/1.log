@@ -1,0 +1,1429 @@
+-------------------------
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  00  ] : "来源"
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  01  ] : "http://ssm.echao.com:8081/fans/auth?manager_id=8&fans_id=106&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D106%26source_fans_id%3D0%26manager_id%3D8%26from%3Dgroupmessage%26isappinstalled%3D0%23!%2Fjoin"
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  02  ] : {"manager_id":"8","fans_id":"106","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"}
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  01  ] : "ShareSpokesman134d8445ec491ab8c3f8cfbedda431ef"
+-------------------------
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  01  ] : "manager_id"
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  02  ] : 8
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  03  ] : "fans_id"
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  04  ] : 106
+-------------------------
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 11:31:50.042  |  1504755110042  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 11:31:50.631  |  1504755110631  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 11:31:50.631  |  1504755110631  |  01  ] : "134d8445ec491ab8c3f8cfbedda431ef"
+-------------------------
+[  log    | 2017-09-07 11:31:50.631  |  1504755110631  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 11:31:50.631  |  1504755110631  |  01  ] : {"access_token":"xue7Ku0z2fe8W3moAAovKfP0MOpgK84DwYdr8_x-40oRzIKVArpJhSe0wdjsQRjEO8bXdtmhjCpUvAMIxGytPQ","expires_in":7200,"refresh_token":"MaDwuaoognJaurvRBcC6xarxL99XRNRxIq0wWWaoh5I-id60Fihmheqq0TD8AkV_Zypuqz9cqZxdqfXSCjHpJw","openid":"oMPMC04SaUBl4_QTXpz1nhAYgUuc","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 11:31:50.647  |  1504755110647  |  00  ] : "manager_id"
+[  log    | 2017-09-07 11:31:50.647  |  1504755110647  |  01  ] : 8
+[  log    | 2017-09-07 11:31:50.647  |  1504755110647  |  02  ] : "fans_id"
+[  log    | 2017-09-07 11:31:50.647  |  1504755110647  |  03  ] : 106
+-------------------------
+[  log    | 2017-09-07 11:31:50.647  |  1504755110647  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 11:31:50.647  |  1504755110647  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 11:31:50.647  |  1504755110647  |  00  ] : "邀请者"
+[  log    | 2017-09-07 11:31:50.647  |  1504755110647  |  01  ] : {"id":106,"manager_id":8,"shopowner_id":8,"clerk_id":106,"prolocutor_id":106,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC0_zWTSi8r9ng98QcpLk1EZU","unionid":null,"nickname":"郭华","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504588445.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503884637,"realname":"郭华","mobile":18680338133,"password":null,"password_hash":"0.226b122117a556","amount":1,"cash":6,"consume":0,"user_level":1,"token":"bc4e9ee4f2411eb58bb83f6f7ab65852","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt1ec5kjC925O4BC-uLaXv3g","t_text":null}
+-------------------------
+[  log    | 2017-09-07 11:31:50.650  |  1504755110650  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 11:31:50.650  |  1504755110650  |  01  ] : {"token":"134d8445ec491ab8c3f8cfbedda431ef"}
+-------------------------
+[  log    | 2017-09-07 11:31:50.654  |  1504755110654  |  00  ] : "目标参数"
+[  log    | 2017-09-07 11:31:50.654  |  1504755110654  |  01  ] : {"fans_id":204,"source_fans_id":106,"manager_id":"8","from":"groupmessage","isappinstalled":"0"}
+-------------------------
+[  log    | 2017-09-07 11:31:50.654  |  1504755110654  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 11:31:50.654  |  1504755110654  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=204&source_fans_id=106&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  00  ] : "来源"
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  01  ] : "http://ssm.echao.com:8081/fans/auth?manager_id=8&fans_id=106&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D106%26source_fans_id%3D0%26manager_id%3D8%26from%3Dgroupmessage%26isappinstalled%3D0%23!%2Fjoin"
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  02  ] : {"manager_id":"8","fans_id":"106","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"}
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  01  ] : "ShareSpokesman8bbca827c209b81ab4824f6fb310a7fd"
+-------------------------
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  01  ] : "manager_id"
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  02  ] : 8
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  03  ] : "fans_id"
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  04  ] : 106
+-------------------------
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 11:32:00.667  |  1504755120667  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 11:35:32.378  |  1504755332378  |  00  ] : "select a.token,a.realname,a.openid,a.headimgurl,a.user_level,a.nickname,IFNULL(b.profit_all,0) profit_all,(select count(*) from db_order where pid = a.id) order_number from `db_people` a left join `db_activity_log` b on a.id = b.user_id where a.prolocutor_id = 204 and a.user_level > 5 and a.user_level <10 and a.is_prolocutor = '1' order by b.profit_all desc,order_number desc,a.id asc limit 0,10"
+-------------------------
+[  log    | 2017-09-07 11:37:11.765  |  1504755431766  |  00  ] : null
+[  log    | 2017-09-07 11:37:11.765  |  1504755431766  |  01  ] : [{"id":1,"openid":"oMPMC0wQ04XhLvh7H6rMvY31F46Q","image_logo":"static/2017-8-24/1503505187.jpeg","title":"疯狂大砍价","start_time":"2017-06-15 14:11:00","end_time":"2018-07-01 14:20:07","original_price":19999,"floor_price":158,"bargain_times":100,"min_sale":12,"max_sale":20,"new_gift_quantity":1110,"gift_quantity":1111,"max_people":50,"gift_describe":"[\"static/2017-9-5/1504606317.jpeg\"]","gift_describe_txt":"人多力量大   发动群众来砍价！！！ 不怕礼品少，只要朋友多      ！！！\n             ps：本活动奖品不采取线上支付、不邮寄，请移步到金张掖大厦珂兰体验店，敬请光临！\n \n\n（由于本次活动太火爆，为了让更多的新老顾客能砍到心仪的招财貔貅，所以又向公司申请了一批） \n\n \n活动参与规则： \n1.点击上方按钮“我也要玩”参加活动，按提示操作。 \n2.分享朋友圈或微信群，让朋友帮你砍价，或者自己砍价，均可！  \n3.砍至底价方可购买，凭手机页面去店内登记.\n\n\n指定黄金貔貅（硬金）手串，含红(黑)玛瑙珠子。原价共计498元，底价158元。 \n备注： 1.如红(黑)玛瑙石珠子不喜欢，可调换其他配件珠子，差价另计，不兑现。\n 2.本次活动奖品共计1500份，活动价格史无前例，每人限购1件。 \n3一人一登记，领取必须凭本人手机号码和微信方可领取。  \n\n\n貔貅寓意介绍：貔貅，打牌必备，逢赌必赢，只进不出。 \n（进财嘴）貔貅以金银珠宝为食，可招财进宝，纳四方之财的寓意。 \n（头顶独角）貔貅独角，一生只对一个衷心，为其招财纳福，守财辟邪的寓意。 \n（护财尾）貔貅吞天下之财而不漏，只进不出。故有招财进宝的寓意。","activity_rules":"1.点击上方按钮\"我也要玩\"参加活动。  \n2.朋友也能帮你减  .\n3.奖品数量有限,达标就会减少一份,份数领完则无法继续报名,亲速度哦!完成后马上可凭手机号码来门店购买。  \n4.商品砍至低价方可到店购买。\n5.详细地址如下。 \n        \"张掖市甘州区青年西街金张掖大厦一楼\n中厅珂兰钻石体验店，电话：0936-8889826","award_information":"活动时间：2017/06/16~2017/07/01\n取货时间：2017/07/02~2017/07/05\n\n领奖地址:\"张掖市甘州区青年西街金张掖大厦一楼\n中厅珂兰钻石体验店，电话：0936-8889826\"","company_introduction":"（珂兰钻石）是中国婚戒定制及轻奢钻饰品牌，成立于2007年,是中国互联网+珠宝全产业链综合型企业集团—刚泰控股旗下全资O2O珠宝品牌。珂兰拥有安特卫普HRD、美国GIA等国际4大合作伙伴，所售钻石一钻双证。","company_introduction_img":"[\"static/2017-9-5/1504606317.jpeg\"]","phone_number":"0936-8889826","addtime":"1496989586","status":1,"user_cj":3,"user_fx":2,"user_ck":48,"user_floor":1,"contact_img":null,"template":null,"remark":null,"start_up_money_all":100,"start_up_money_residue":19,"share_money_time":1,"forward_money_time":1,"browse_money_time":1,"product_id":136,"user_zf":17,"shopowner_id":23,"boss_id":8,"direct_profit":50,"indirect_profit":10,"open_off":2}]
+[  log    | 2017-09-07 11:37:11.765  |  1504755431766  |  02  ] : [{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"id","orgName":"id","charsetNr":63,"length":10,"type":3,"flags":16931,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"openid","orgName":"openid","charsetNr":33,"length":765,"type":253,"flags":20489,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"image_logo","orgName":"image_logo","charsetNr":33,"length":765,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"title","orgName":"title","charsetNr":33,"length":192,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"start_time","orgName":"start_time","charsetNr":33,"length":192,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"end_time","orgName":"end_time","charsetNr":33,"length":192,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"original_price","orgName":"original_price","charsetNr":63,"length":22,"type":5,"flags":0,"decimals":31,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"floor_price","orgName":"floor_price","charsetNr":63,"length":22,"type":5,"flags":0,"decimals":31,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"bargain_times","orgName":"bargain_times","charsetNr":63,"length":10,"type":3,"flags":32,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"min_sale","orgName":"min_sale","charsetNr":63,"length":22,"type":5,"flags":0,"decimals":31,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"max_sale","orgName":"max_sale","charsetNr":63,"length":22,"type":5,"flags":0,"decimals":31,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"new_gift_quantity","orgName":"new_gift_quantity","charsetNr":63,"length":10,"type":3,"flags":32,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"gift_quantity","orgName":"gift_quantity","charsetNr":63,"length":10,"type":3,"flags":32,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"max_people","orgName":"max_people","charsetNr":63,"length":10,"type":3,"flags":32,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"gift_describe","orgName":"gift_describe","charsetNr":33,"length":196605,"type":252,"flags":16,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"gift_describe_txt","orgName":"gift_describe_txt","charsetNr":33,"length":196605,"type":252,"flags":16,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"activity_rules","orgName":"activity_rules","charsetNr":33,"length":196605,"type":252,"flags":16,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"award_information","orgName":"award_information","charsetNr":33,"length":196605,"type":252,"flags":16,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"company_introduction","orgName":"company_introduction","charsetNr":33,"length":196605,"type":252,"flags":16,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"company_introduction_img","orgName":"company_introduction_img","charsetNr":33,"length":196605,"type":252,"flags":16,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"phone_number","orgName":"phone_number","charsetNr":33,"length":96,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"addtime","orgName":"addtime","charsetNr":33,"length":192,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"status","orgName":"status","charsetNr":63,"length":4,"type":1,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"user_cj","orgName":"user_cj","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"user_fx","orgName":"user_fx","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"user_ck","orgName":"user_ck","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"user_floor","orgName":"user_floor","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"contact_img","orgName":"contact_img","charsetNr":33,"length":765,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"template","orgName":"template","charsetNr":33,"length":96,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"remark","orgName":"remark","charsetNr":33,"length":765,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"start_up_money_all","orgName":"start_up_money_all","charsetNr":63,"length":22,"type":246,"flags":1,"decimals":2,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"start_up_money_residue","orgName":"start_up_money_residue","charsetNr":63,"length":22,"type":246,"flags":1,"decimals":2,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"share_money_time","orgName":"share_money_time","charsetNr":63,"length":22,"type":246,"flags":1,"decimals":2,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"forward_money_time","orgName":"forward_money_time","charsetNr":63,"length":22,"type":246,"flags":1,"decimals":2,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"browse_money_time","orgName":"browse_money_time","charsetNr":63,"length":11,"type":246,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"product_id","orgName":"product_id","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"user_zf","orgName":"user_zf","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"shopowner_id","orgName":"shopowner_id","charsetNr":63,"length":11,"type":3,"flags":16392,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"boss_id","orgName":"boss_id","charsetNr":63,"length":11,"type":3,"flags":16392,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"direct_profit","orgName":"direct_profit","charsetNr":63,"length":2,"type":3,"flags":1,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"indirect_profit","orgName":"indirect_profit","charsetNr":63,"length":2,"type":3,"flags":1,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_bargain","orgTable":"db_bargain","name":"open_off","orgName":"open_off","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true}]
+[  log    | 2017-09-07 11:37:11.765  |  1504755431766  |  03  ] : "select * from `db_bargain` where id='1' and boss_id='8'"
+-------------------------
+[  log    | 2017-09-07 11:37:11.951  |  1504755431952  |  00  ] : [{"id":136,"money":19999,"status":1,"name":"测试产品2","create_time":"2017-08-30 00:00:00","commission":0,"image":"[\"static/2017-8-24/1503505187.jpeg\",\"static/2017-8-24/1503505194.jpeg\"]","sales":0,"remark":"123123131312313123123123123123123131","stock":1111,"pay_type":1,"pay_rate":0,"product_source":1,"sid":23,"mid":8,"type":1,"type1":1,"carousel_figure":"[\"static/2017-8-30/1504089190.jpeg\",\"static/2017-8-30/1504089208.jpeg\"]","barcode":"123456789","parameter":[]}]
+-------------------------
+[  log    | 2017-09-07 11:37:53.164  |  1504755473165  |  00  ] : "来源"
+[  log    | 2017-09-07 11:37:53.164  |  1504755473165  |  01  ] : "http://ssm.echao.com:8081/fans/auth?manager_id=8&fans_id=106&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D106%26source_fans_id%3D0%26manager_id%3D8%26from%3Dgroupmessage%26isappinstalled%3D0%23!%2Fjoin"
+[  log    | 2017-09-07 11:37:53.164  |  1504755473165  |  02  ] : {"manager_id":"8","fans_id":"106","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"}
+[  log    | 2017-09-07 11:37:53.164  |  1504755473165  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 11:37:53.165  |  1504755473165  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 11:37:53.165  |  1504755473165  |  01  ] : "ShareSpokesman230740d66df11955ba0b723d991acb0f"
+-------------------------
+[  log    | 2017-09-07 11:37:53.165  |  1504755473165  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 11:37:53.165  |  1504755473165  |  01  ] : "manager_id"
+[  log    | 2017-09-07 11:37:53.165  |  1504755473165  |  02  ] : 8
+[  log    | 2017-09-07 11:37:53.165  |  1504755473165  |  03  ] : "fans_id"
+[  log    | 2017-09-07 11:37:53.165  |  1504755473165  |  04  ] : 106
+-------------------------
+[  log    | 2017-09-07 11:37:53.165  |  1504755473165  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 11:37:53.165  |  1504755473165  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 12:05:11.772  |  1504757111772  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504670711 and create_time < 1504757111"
+-------------------------
+[  log    | 2017-09-07 12:05:11.772  |  1504757111772  |  00  ] : 1504670711
+-------------------------
+[  log    | 2017-09-07 12:05:11.774  |  1504757111774  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504584311 and create_time < 1504670711"
+-------------------------
+[  log    | 2017-09-07 12:05:11.774  |  1504757111774  |  00  ] : 1504584311
+-------------------------
+[  log    | 2017-09-07 12:05:11.779  |  1504757111779  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504497911 and create_time < 1504584311"
+-------------------------
+[  log    | 2017-09-07 12:05:11.779  |  1504757111779  |  00  ] : 1504497911
+-------------------------
+[  log    | 2017-09-07 12:05:11.780  |  1504757111781  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504411511 and create_time < 1504497911"
+-------------------------
+[  log    | 2017-09-07 12:05:11.781  |  1504757111781  |  00  ] : 1504411511
+-------------------------
+[  log    | 2017-09-07 12:05:11.782  |  1504757111782  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504325111 and create_time < 1504411511"
+-------------------------
+[  log    | 2017-09-07 12:05:11.782  |  1504757111782  |  00  ] : 1504325111
+-------------------------
+[  log    | 2017-09-07 12:05:11.784  |  1504757111784  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504238711 and create_time < 1504325111"
+-------------------------
+[  log    | 2017-09-07 12:05:11.784  |  1504757111784  |  00  ] : 1504238711
+-------------------------
+[  log    | 2017-09-07 12:05:11.787  |  1504757111787  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504152311 and create_time < 1504238711"
+-------------------------
+[  log    | 2017-09-07 12:05:11.787  |  1504757111787  |  00  ] : 1504152311
+-------------------------
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  00  ] : "来源"
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  01  ] : "http://ssm.echao.com:8081/fans/auth?manager_id=14&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fshopkeeper%2Findex.html%3Fmanager_id%3D14%23!%2Fpersonal%3Fmanager_id%3D14"
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  02  ] : {"manager_id":"14","url":"http://ssm.echao.com/ShareSpokesman/shopkeeper/index.html?manager_id=14#!/personal?manager_id=14"}
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  01  ] : "ShareSpokesman25be7b6067a8bf75702b865ea6006382"
+-------------------------
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  01  ] : "manager_id"
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  02  ] : 14
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  03  ] : "fans_id"
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  04  ] : 0
+-------------------------
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 12:08:18.888  |  1504757298888  |  01  ] : "http://ssm.echao.com/ShareSpokesman/shopkeeper/index.html?manager_id=14#!/personal?manager_id=14"
+-------------------------
+[  log    | 2017-09-07 12:08:19.580  |  1504757299580  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 12:08:19.580  |  1504757299580  |  01  ] : "25be7b6067a8bf75702b865ea6006382"
+-------------------------
+[  log    | 2017-09-07 12:08:19.580  |  1504757299580  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 12:08:19.580  |  1504757299580  |  01  ] : {"access_token":"ZO_5k-u1Kr3m06VAe-Z9JuDkhcab5fDxa17x1POMGVZj5u2T2QHYWM86xCWSqcPc_KEGdkyirnjnDN2KQpRf_g","expires_in":7200,"refresh_token":"qfCxnT5FAnUwxgKyefO96D6H8e4jCsbNE3x6nb7wgm5x2W5NrwPEmBzd8GLx6Tfo0jJZ5NLGXGcli8KeRyzFag","openid":"oMPMC0xPel5b2jm2ulb-8Zh6aLlA","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 12:08:19.590  |  1504757299590  |  00  ] : "manager_id"
+[  log    | 2017-09-07 12:08:19.590  |  1504757299590  |  01  ] : 14
+[  log    | 2017-09-07 12:08:19.590  |  1504757299590  |  02  ] : "fans_id"
+[  log    | 2017-09-07 12:08:19.590  |  1504757299590  |  03  ] : 0
+-------------------------
+[  log    | 2017-09-07 12:08:19.590  |  1504757299590  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 12:08:19.590  |  1504757299590  |  01  ] : "http://ssm.echao.com/ShareSpokesman/shopkeeper/index.html?manager_id=14#!/personal?manager_id=14"
+-------------------------
+[  log    | 2017-09-07 12:08:19.590  |  1504757299590  |  00  ] : "邀请者"
+[  log    | 2017-09-07 12:08:19.590  |  1504757299590  |  01  ] : {}
+-------------------------
+[  log    | 2017-09-07 12:08:19.596  |  1504757299596  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 12:08:19.596  |  1504757299596  |  01  ] : {"token":"25be7b6067a8bf75702b865ea6006382"}
+-------------------------
+[  log    | 2017-09-07 12:08:19.603  |  1504757299603  |  00  ] : "目标参数"
+[  log    | 2017-09-07 12:08:19.603  |  1504757299603  |  01  ] : {"fans_id":257,"source_fans_id":0,"manager_id":"14"}
+-------------------------
+[  log    | 2017-09-07 12:08:19.603  |  1504757299603  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 12:08:19.603  |  1504757299603  |  01  ] : "http://ssm.echao.com/ShareSpokesman/shopkeeper/index.html?fans_id=257&source_fans_id=0&manager_id=14#!/personal?manager_id=14"
+-------------------------
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  00  ] : "来源"
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  01  ] : "http://ssm.echao.com:8081/fans/auth?manager_id=14&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fshopkeeper%2Findex.html%3Fmanager_id%3D14%23!%2Fpersonal%3Fmanager_id%3D14"
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  02  ] : {"manager_id":"14","url":"http://ssm.echao.com/ShareSpokesman/shopkeeper/index.html?manager_id=14#!/personal?manager_id=14"}
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  01  ] : "ShareSpokesman6a7fbf5a4fd56f2906cd0550222f7889"
+-------------------------
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  01  ] : "manager_id"
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  02  ] : 14
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  03  ] : "fans_id"
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  04  ] : 0
+-------------------------
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 12:08:29.341  |  1504757309341  |  01  ] : "http://ssm.echao.com/ShareSpokesman/shopkeeper/index.html?manager_id=14#!/personal?manager_id=14"
+-------------------------
+[  log    | 2017-09-07 12:12:54.141  |  1504757574141  |  00  ] : null
+[  log    | 2017-09-07 12:12:54.141  |  1504757574141  |  01  ] : [{"id":33,"openid":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","product_id":11,"image_logo":"http://222.zsb2b.com/fileserver/images/20161213/1481599551286_cut.jpg","banner_top":"[\"http://222.zsb2b.com/fileserver/images/20161213/1481599551286_cut.jpg\"]","title":"全国在疯抢 烟台市莱山区银座商城一楼铂金尔......","start_time":"2017-02-01 01:00:00","end_time":"2018-02-01 00:00:00","product_quantity":111,"activity_rules":"1.点击上方按钮\"我也要玩\"参加活动。  \n2.朋友也能帮你减  .\n3.奖品数量有限,达标就会减少一份,份数领完则无法继续报名,亲速度哦!完成后马上可凭手机号码来门店购买。  \n4.商品砍至低价方可到店购买。\n5.详细地址如下。 \n        \"张掖市甘州区青年西街金张掖大厦一楼\n中厅珂兰钻石体验店，电话：0936-8889826","award_information":"活动时间：2017/06/16~2017/07/01\n取货时间：2017/07/02~2017/07/05\n\n领奖地址:\"张掖市甘州区青年西街金张掖大厦一楼\n中厅珂兰钻石体验店，电话：0936-8889826","product_introduction":"1234567646131","product_introduction_img":"[\"http://master.echao.com/bargain/Public/Uploads/IMG593a3dc276fb5.jpeg\",\"http://master.echao.com/bargain/Public/Uploads/IMG593a3dd28136c.jpeg\",\"http://master.echao.com/bargain/Public/Uploads/IMG593a3dde80aea.jpeg\",\"http://master.echao.com/bargain/Public/Uploads/IMG593a3de5d0c3c.jpeg\",\"http://master.echao.com/bargain/Public/Uploads/IMG593a3dea4cfbc.jpeg\",\"http://imageserver.echao.com/uploadfile/20170615/b37d33bdfe.jpg\",\"http://imageserver.echao.com/uploadfile/20170615/4396f39da0.jpg\",\"http://imageserver.echao.com/uploadfile/20170615/10b335cb0f.jpg\",\"http://imageserver.echao.com/uploadfile/20170615/b92007abd6.jpg\",\"http://imageserver.echao.com/uploadfile/20170615/6e07664f6c.jpg\"]","phone_number":null,"addtime":"1503543508","status":1,"user_cj":0,"user_fx":0,"user_ck":0,"boss_id":14,"shopowner_id":101,"contact_img":null,"template":null,"remark":null,"start_up_money_all":111,"start_up_money_residue":0,"share_money_time":1,"forward_money_time":1,"browse_money_time":1,"user_zf":0,"floor_price":11,"original_price":999,"direct_profit":5,"indirect_profit":3,"sale_profit":10,"open_off":1}]
+[  log    | 2017-09-07 12:12:54.141  |  1504757574141  |  02  ] : [{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"id","orgName":"id","charsetNr":63,"length":10,"type":3,"flags":16931,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"openid","orgName":"openid","charsetNr":33,"length":765,"type":253,"flags":20489,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"product_id","orgName":"product_id","charsetNr":63,"length":10,"type":3,"flags":4097,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"image_logo","orgName":"image_logo","charsetNr":33,"length":765,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"banner_top","orgName":"banner_top","charsetNr":33,"length":196605,"type":252,"flags":16,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"title","orgName":"title","charsetNr":33,"length":192,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"start_time","orgName":"start_time","charsetNr":33,"length":192,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"end_time","orgName":"end_time","charsetNr":33,"length":192,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"product_quantity","orgName":"product_quantity","charsetNr":63,"length":10,"type":3,"flags":32,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"activity_rules","orgName":"activity_rules","charsetNr":33,"length":196605,"type":252,"flags":16,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"award_information","orgName":"award_information","charsetNr":33,"length":196605,"type":252,"flags":16,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"product_introduction","orgName":"product_introduction","charsetNr":33,"length":196605,"type":252,"flags":16,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"product_introduction_img","orgName":"product_introduction_img","charsetNr":33,"length":196605,"type":252,"flags":16,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"phone_number","orgName":"phone_number","charsetNr":33,"length":96,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"addtime","orgName":"addtime","charsetNr":33,"length":192,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"status","orgName":"status","charsetNr":63,"length":4,"type":1,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"user_cj","orgName":"user_cj","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"user_fx","orgName":"user_fx","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"user_ck","orgName":"user_ck","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"boss_id","orgName":"boss_id","charsetNr":63,"length":11,"type":3,"flags":16392,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"shopowner_id","orgName":"shopowner_id","charsetNr":63,"length":11,"type":3,"flags":16392,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"contact_img","orgName":"contact_img","charsetNr":33,"length":765,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"template","orgName":"template","charsetNr":33,"length":96,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"remark","orgName":"remark","charsetNr":33,"length":765,"type":253,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"start_up_money_all","orgName":"start_up_money_all","charsetNr":63,"length":22,"type":246,"flags":1,"decimals":2,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"start_up_money_residue","orgName":"start_up_money_residue","charsetNr":63,"length":22,"type":246,"flags":1,"decimals":2,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"share_money_time","orgName":"share_money_time","charsetNr":63,"length":22,"type":246,"flags":1,"decimals":2,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"forward_money_time","orgName":"forward_money_time","charsetNr":63,"length":22,"type":246,"flags":1,"decimals":2,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"browse_money_time","orgName":"browse_money_time","charsetNr":63,"length":21,"type":246,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"user_zf","orgName":"user_zf","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"floor_price","orgName":"floor_price","charsetNr":63,"length":22,"type":5,"flags":0,"decimals":31,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"original_price","orgName":"original_price","charsetNr":63,"length":22,"type":5,"flags":0,"decimals":31,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"direct_profit","orgName":"direct_profit","charsetNr":63,"length":2,"type":3,"flags":1,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"indirect_profit","orgName":"indirect_profit","charsetNr":63,"length":2,"type":3,"flags":1,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"sale_profit","orgName":"sale_profit","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true},{"catalog":"def","db":"jh_share_spokesman","table":"db_single_product","orgTable":"db_single_product","name":"open_off","orgName":"open_off","charsetNr":63,"length":11,"type":3,"flags":0,"decimals":0,"zeroFill":false,"protocol41":true}]
+[  log    | 2017-09-07 12:12:54.141  |  1504757574141  |  03  ] : "select * from `db_single_product` where id='33' and boss_id='14'"
+-------------------------
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  00  ] : "来源"
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  01  ] : "http://ssm.echao.com:8081/fans/auth?manager_id=28&fans_id=228&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D228%26source_fans_id%3D0%26manager_id%3D28%26from%3Dsinglemessage%26isappinstalled%3D0%23!%2Fjoin"
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  02  ] : {"manager_id":"28","fans_id":"228","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=228&source_fans_id=0&manager_id=28&from=singlemessage&isappinstalled=0#!/join"}
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  01  ] : "ShareSpokesman07015b50f11536b019af77a969f94c20"
+-------------------------
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  01  ] : "manager_id"
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  02  ] : 28
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  03  ] : "fans_id"
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  04  ] : 228
+-------------------------
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 13:23:34.882  |  1504761814882  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=228&source_fans_id=0&manager_id=28&from=singlemessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 13:23:35.855  |  1504761815855  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 13:23:35.855  |  1504761815855  |  01  ] : "07015b50f11536b019af77a969f94c20"
+-------------------------
+[  log    | 2017-09-07 13:23:35.855  |  1504761815856  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 13:23:35.855  |  1504761815856  |  01  ] : {"access_token":"FRxYsl_vILy5s8MtjzzNbKq98_nHUTrJxaRcu-WwQ1P2QD0-yhxNw0mpB20QxgRC-6-riaXvrSe0oz5lbvYDB76l-Ya5BwLbaQ8Cm4uQWkE","expires_in":7200,"refresh_token":"FEoClAGf2m7-JIn59cdZJKzEWbfpnsonwh-mK5OKqj7rKvNnbzMnJtQASy1CfsAy7h4eIWFfLp8qEsEbWfRDMmS2LJy7xZKQKuU5SutjO3c","openid":"oMPMC0_zWTSi8r9ng98QcpLk1EZU","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 13:23:35.868  |  1504761815868  |  00  ] : "manager_id"
+[  log    | 2017-09-07 13:23:35.868  |  1504761815868  |  01  ] : 28
+[  log    | 2017-09-07 13:23:35.868  |  1504761815868  |  02  ] : "fans_id"
+[  log    | 2017-09-07 13:23:35.868  |  1504761815868  |  03  ] : 228
+-------------------------
+[  log    | 2017-09-07 13:23:35.868  |  1504761815868  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 13:23:35.868  |  1504761815868  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=228&source_fans_id=0&manager_id=28&from=singlemessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 13:23:35.868  |  1504761815868  |  00  ] : "邀请者"
+[  log    | 2017-09-07 13:23:35.868  |  1504761815868  |  01  ] : {"id":228,"manager_id":28,"shopowner_id":28,"clerk_id":228,"prolocutor_id":228,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC04xfKJNYHOD-rphnq0lJaHE","unionid":null,"nickname":"魏来","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-6/1504697115.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1504603601,"realname":null,"mobile":18639700018,"password":null,"password_hash":"0.4575037a891b72","amount":0,"cash":0,"consume":0,"user_level":1,"token":"3ecacd5313154307818e3aabd39159e1","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":null,"t_text":null}
+-------------------------
+[  log    | 2017-09-07 13:23:35.874  |  1504761815874  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 13:23:35.874  |  1504761815874  |  01  ] : {"token":"07015b50f11536b019af77a969f94c20"}
+-------------------------
+[  log    | 2017-09-07 13:23:35.884  |  1504761815884  |  00  ] : "目标参数"
+[  log    | 2017-09-07 13:23:35.884  |  1504761815884  |  01  ] : {"fans_id":240,"source_fans_id":228,"manager_id":"28","from":"singlemessage","isappinstalled":"0"}
+-------------------------
+[  log    | 2017-09-07 13:23:35.884  |  1504761815884  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 13:23:35.884  |  1504761815884  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=240&source_fans_id=228&manager_id=28&from=singlemessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  00  ] : "来源"
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  01  ] : "http://ssm.echao.com:8081/fans/auth?manager_id=28&fans_id=228&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D228%26source_fans_id%3D0%26manager_id%3D28%26from%3Dsinglemessage%26isappinstalled%3D0%23!%2Fjoin"
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  02  ] : {"manager_id":"28","fans_id":"228","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=228&source_fans_id=0&manager_id=28&from=singlemessage&isappinstalled=0#!/join"}
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  01  ] : "ShareSpokesmana5fe5238658ef30bacabb056e9a0fdf4"
+-------------------------
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  01  ] : "manager_id"
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  02  ] : 28
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  03  ] : "fans_id"
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  04  ] : 228
+-------------------------
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 13:23:45.127  |  1504761825127  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=228&source_fans_id=0&manager_id=28&from=singlemessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  00  ] : "来源"
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  01  ] : "http://ssm.echao.com:8081/fans/auth?manager_id=8&fans_id=106&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D106%26source_fans_id%3D0%26manager_id%3D8%26from%3Dgroupmessage%26isappinstalled%3D0%23!%2Fjoin"
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  02  ] : {"manager_id":"8","fans_id":"106","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"}
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  01  ] : "ShareSpokesman71dd23c73dbb396bed3dc4de282a965f"
+-------------------------
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  01  ] : "manager_id"
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  02  ] : 8
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  03  ] : "fans_id"
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  04  ] : 106
+-------------------------
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 13:24:26.053  |  1504761866053  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 13:24:26.888  |  1504761866889  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 13:24:26.888  |  1504761866889  |  01  ] : "71dd23c73dbb396bed3dc4de282a965f"
+-------------------------
+[  log    | 2017-09-07 13:24:26.889  |  1504761866889  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 13:24:26.889  |  1504761866889  |  01  ] : {"access_token":"CXR1xhYTYZIOKXik_ZMp_qpeGQnsz92lsrKSOSG9ozKnrQ3coQlbfrLiVm_QME6LWS5ZUrt6P_cLUyuos5UM5X0caooD3OuN5Pl3IoQdjMk","expires_in":7200,"refresh_token":"uH-m3dBN0oyXUwhj8dNq6JeSk-rxKoWYDzFgtqpWo2Ta7v4LUMgxDnrUrb9yoeJWXR1dUI1iawqm_bmelekOkJAfOsobK9JuePNK8BkcG3I","openid":"oMPMC0_zWTSi8r9ng98QcpLk1EZU","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 13:24:26.899  |  1504761866899  |  00  ] : "manager_id"
+[  log    | 2017-09-07 13:24:26.899  |  1504761866899  |  01  ] : 8
+[  log    | 2017-09-07 13:24:26.899  |  1504761866899  |  02  ] : "fans_id"
+[  log    | 2017-09-07 13:24:26.899  |  1504761866899  |  03  ] : 106
+-------------------------
+[  log    | 2017-09-07 13:24:26.899  |  1504761866899  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 13:24:26.899  |  1504761866899  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 13:24:26.899  |  1504761866899  |  00  ] : "邀请者"
+[  log    | 2017-09-07 13:24:26.899  |  1504761866899  |  01  ] : {"id":106,"manager_id":8,"shopowner_id":8,"clerk_id":106,"prolocutor_id":106,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC0_zWTSi8r9ng98QcpLk1EZU","unionid":null,"nickname":"郭华","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504588445.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503884637,"realname":"郭华","mobile":18680338133,"password":null,"password_hash":"0.226b122117a556","amount":1,"cash":6,"consume":0,"user_level":1,"token":"bc4e9ee4f2411eb58bb83f6f7ab65852","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt1ec5kjC925O4BC-uLaXv3g","t_text":null}
+-------------------------
+[  log    | 2017-09-07 13:24:26.900  |  1504761866900  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 13:24:26.900  |  1504761866900  |  01  ] : {"token":"71dd23c73dbb396bed3dc4de282a965f"}
+-------------------------
+[  log    | 2017-09-07 13:24:26.904  |  1504761866904  |  00  ] : "目标参数"
+[  log    | 2017-09-07 13:24:26.904  |  1504761866904  |  01  ] : {"fans_id":106,"source_fans_id":106,"manager_id":"8","from":"groupmessage","isappinstalled":"0"}
+-------------------------
+[  log    | 2017-09-07 13:24:26.904  |  1504761866904  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 13:24:26.904  |  1504761866904  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=106&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  00  ] : "来源"
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%26from%3Dsinglemessage%23!%2Fjoin"
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"}
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  01  ] : "ShareSpokesmanb01d9512c1db1edfdeda3237ec722fdb"
+-------------------------
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  02  ] : 0
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:17:49.785  |  1504765069785  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"
+-------------------------
+[  log    | 2017-09-07 14:17:50.749  |  1504765070749  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:17:50.749  |  1504765070749  |  01  ] : "b01d9512c1db1edfdeda3237ec722fdb"
+-------------------------
+[  log    | 2017-09-07 14:17:50.749  |  1504765070749  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:17:50.749  |  1504765070749  |  01  ] : {"access_token":"4SxEb6GuCZ-0xMfSwyn2r3wYkjqCuOUw5VJfveYS8fE4q_w3Rfy216Ixq6cDan0MNoXy5ILkYtTo48QxZofVdg","expires_in":7200,"refresh_token":"pKmzyknoumbO81gi_9oZmmDAkm4tvmcGNw4nuwbktQi8fwRaIgJhyFA5DCToeoqelSOFjhXjC1YFqDLekRA-yQ","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:17:50.761  |  1504765070761  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:17:50.761  |  1504765070761  |  01  ] : 0
+[  log    | 2017-09-07 14:17:50.761  |  1504765070761  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:17:50.761  |  1504765070761  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:17:50.761  |  1504765070761  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:17:50.761  |  1504765070761  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"
+-------------------------
+[  log    | 2017-09-07 14:17:50.761  |  1504765070761  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:17:50.761  |  1504765070761  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"a1b0f6561dd94e7538f2c820f5902bda","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:17:50.767  |  1504765070767  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:17:50.767  |  1504765070767  |  01  ] : {"token":"b01d9512c1db1edfdeda3237ec722fdb"}
+-------------------------
+[  log    | 2017-09-07 14:17:50.778  |  1504765070778  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:17:50.778  |  1504765070778  |  01  ] : {"fans_id":83,"source_fans_id":83,"from":"singlemessage"}
+-------------------------
+[  log    | 2017-09-07 14:17:50.778  |  1504765070778  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:17:50.778  |  1504765070778  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"
+-------------------------
+[  log    | 2017-09-07 14:20:21.338  |  1504765221338  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  00  ] : "来源"
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2FstoreData"
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/storeData"}
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  01  ] : "ShareSpokesman04c1f0844c3dfc1c591def094f068006"
+-------------------------
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  02  ] : 0
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:20:31.900  |  1504765231900  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/storeData"
+-------------------------
+[  log    | 2017-09-07 14:20:33.714  |  1504765233714  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:20:33.714  |  1504765233714  |  01  ] : "04c1f0844c3dfc1c591def094f068006"
+-------------------------
+[  log    | 2017-09-07 14:20:33.714  |  1504765233714  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:20:33.714  |  1504765233714  |  01  ] : {"access_token":"1DM8TeC_PBU8JLmou5touZfkOjvat9WHInKJR2udvLqj7ccNXWWnIDlaohvRo6IP2AutdIbPFiv8jQGzJpMA-g","expires_in":7200,"refresh_token":"C0gH45IIIuU_TetKrMxsS15_JSI3ihegK-faeckJzqZhtrYYLGzHxRXg_ePWN9j-ji7MfhzD1nkD8Avmf3lTcg","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:20:33.736  |  1504765233736  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:20:33.736  |  1504765233736  |  01  ] : 0
+[  log    | 2017-09-07 14:20:33.736  |  1504765233736  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:20:33.736  |  1504765233736  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:20:33.736  |  1504765233736  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:20:33.736  |  1504765233736  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/storeData"
+-------------------------
+[  log    | 2017-09-07 14:20:33.736  |  1504765233736  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:20:33.736  |  1504765233736  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"b01d9512c1db1edfdeda3237ec722fdb","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:20:33.741  |  1504765233741  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:20:33.741  |  1504765233741  |  01  ] : {"token":"04c1f0844c3dfc1c591def094f068006"}
+-------------------------
+[  log    | 2017-09-07 14:20:33.745  |  1504765233745  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:20:33.745  |  1504765233745  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:20:33.745  |  1504765233745  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:20:33.745  |  1504765233745  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/storeData"
+-------------------------
+[  log    | 2017-09-07 14:21:36.220  |  1504765296221  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:22:15.669  |  1504765335669  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:22:27.323  |  1504765347323  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:22:40.344  |  1504765360344  |  00  ] : "来源"
+[  log    | 2017-09-07 14:22:40.344  |  1504765360344  |  01  ] : "http://ssm.echao.com:8081/fans/auth?manager_id=14&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fshopkeeper%2Findex.html%3Fmanager_id%3D14%23!%2Fpersonal%3Fmanager_id%3D14"
+[  log    | 2017-09-07 14:22:40.344  |  1504765360344  |  02  ] : {"manager_id":"14","url":"http://ssm.echao.com/ShareSpokesman/shopkeeper/index.html?manager_id=14#!/personal?manager_id=14"}
+[  log    | 2017-09-07 14:22:40.344  |  1504765360344  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:22:40.344  |  1504765360344  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:22:40.344  |  1504765360344  |  01  ] : "ShareSpokesmanf8e6f90866f1a83c5f95c866aca69591"
+-------------------------
+[  log    | 2017-09-07 14:22:40.344  |  1504765360344  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:22:40.344  |  1504765360344  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:22:40.344  |  1504765360344  |  02  ] : 14
+[  log    | 2017-09-07 14:22:40.344  |  1504765360344  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:22:40.344  |  1504765360344  |  04  ] : 0
+-------------------------
+[  log    | 2017-09-07 14:22:40.345  |  1504765360345  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:22:40.345  |  1504765360345  |  01  ] : "http://ssm.echao.com/ShareSpokesman/shopkeeper/index.html?manager_id=14#!/personal?manager_id=14"
+-------------------------
+[  log    | 2017-09-07 14:22:41.013  |  1504765361013  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:22:41.013  |  1504765361013  |  01  ] : "f8e6f90866f1a83c5f95c866aca69591"
+-------------------------
+[  log    | 2017-09-07 14:22:41.013  |  1504765361013  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:22:41.013  |  1504765361013  |  01  ] : {"access_token":"LvxCoKnfQZQ0iUvFaUA6H0cHX2YuRzLpxDP0tzz9_psMu3p9rJ5zUV0057qkQLjcjMxgy_IbSdNzRb8fVtBqHg","expires_in":7200,"refresh_token":"FiWTB9zVTTFv5mfjTWxMPHwnn3ZwKF7x4cmklijifNTzcPrve9EUY3XRdKpMfLJ2TNVa_va-NGL4DZJRHFFEkQ","openid":"oMPMC0xPel5b2jm2ulb-8Zh6aLlA","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:22:41.025  |  1504765361025  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:22:41.025  |  1504765361025  |  01  ] : 14
+[  log    | 2017-09-07 14:22:41.025  |  1504765361025  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:22:41.025  |  1504765361025  |  03  ] : 0
+-------------------------
+[  log    | 2017-09-07 14:22:41.025  |  1504765361025  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:22:41.025  |  1504765361025  |  01  ] : "http://ssm.echao.com/ShareSpokesman/shopkeeper/index.html?manager_id=14#!/personal?manager_id=14"
+-------------------------
+[  log    | 2017-09-07 14:22:41.025  |  1504765361025  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:22:41.025  |  1504765361025  |  01  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:22:41.030  |  1504765361030  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:22:41.030  |  1504765361030  |  01  ] : {"token":"f8e6f90866f1a83c5f95c866aca69591"}
+-------------------------
+[  log    | 2017-09-07 14:22:41.047  |  1504765361047  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:22:41.047  |  1504765361047  |  01  ] : {"fans_id":257,"source_fans_id":0,"manager_id":"14"}
+-------------------------
+[  log    | 2017-09-07 14:22:41.047  |  1504765361047  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:22:41.047  |  1504765361047  |  01  ] : "http://ssm.echao.com/ShareSpokesman/shopkeeper/index.html?fans_id=257&source_fans_id=0&manager_id=14#!/personal?manager_id=14"
+-------------------------
+[  log    | 2017-09-07 14:23:09.408  |  1504765389408  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:27:39.461  |  1504765659461  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:31:06.371  |  1504765866371  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:31:09.805  |  1504765869805  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:31:11.180  |  1504765871180  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:32:34.020  |  1504765954020  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:32:55.527  |  1504765975527  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:33:06.601  |  1504765986602  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  00  ] : "来源"
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2FdataInfo"
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"}
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  01  ] : "ShareSpokesmanbf5ff01eb5aba1243353791ac27f536e"
+-------------------------
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  02  ] : 0
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:33:31.213  |  1504766011213  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:33:32.250  |  1504766012250  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:33:32.250  |  1504766012250  |  01  ] : "bf5ff01eb5aba1243353791ac27f536e"
+-------------------------
+[  log    | 2017-09-07 14:33:32.250  |  1504766012250  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:33:32.250  |  1504766012250  |  01  ] : {"access_token":"ghgJ-qhlIW0qbMxTFc9cVyDT-pWYxWWWQw60-RNCTpfeulEJcGJy_lTn8dU1L24I2DG3IrzMYu5c3oMVqTda0g","expires_in":7200,"refresh_token":"A8W4zHwouNy0cWoegWQ32-9ReQA0oiGWiqFbNlr-Kq647ioL8sD5_e8nfD8_ZfevxAwx_J73usqsL91rIQY4cg","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:33:32.277  |  1504766012277  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:33:32.277  |  1504766012277  |  01  ] : 0
+[  log    | 2017-09-07 14:33:32.277  |  1504766012277  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:33:32.277  |  1504766012277  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:33:32.277  |  1504766012277  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:33:32.277  |  1504766012277  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:33:32.277  |  1504766012277  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:33:32.277  |  1504766012277  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"04c1f0844c3dfc1c591def094f068006","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:33:32.278  |  1504766012278  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:33:32.278  |  1504766012278  |  01  ] : {"token":"bf5ff01eb5aba1243353791ac27f536e"}
+-------------------------
+[  log    | 2017-09-07 14:33:32.281  |  1504766012281  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:33:32.281  |  1504766012281  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:33:32.281  |  1504766012281  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:33:32.281  |  1504766012281  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  00  ] : "来源"
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2FdataInfo"
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"}
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  01  ] : "ShareSpokesmanf91cce67504454283c2f8b06d4ad12bc"
+-------------------------
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  02  ] : 0
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:33:34.027  |  1504766014027  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:33:34.848  |  1504766014849  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:33:34.848  |  1504766014849  |  01  ] : "f91cce67504454283c2f8b06d4ad12bc"
+-------------------------
+[  log    | 2017-09-07 14:33:34.849  |  1504766014849  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:33:34.849  |  1504766014849  |  01  ] : {"access_token":"IPpgpucyiwyJkUSeGgdHwQhxEHnRLGe2q0ZJ2_S8Uwsd0bmL3f2QVwzsKgaRr9hispxNBSRLr3P23q9RiqkoQw","expires_in":7200,"refresh_token":"AQwIfzsHJaHUJ9bG15TYPTrZ1zYMhzzcvVddXSJWU2qNs7MEXDaSzXOfXNtBoXqJQZWcUkF5heQcZqgt-HkjAw","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:33:34.876  |  1504766014876  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:33:34.876  |  1504766014876  |  01  ] : 0
+[  log    | 2017-09-07 14:33:34.876  |  1504766014876  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:33:34.876  |  1504766014876  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:33:34.876  |  1504766014876  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:33:34.876  |  1504766014876  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:33:34.876  |  1504766014876  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:33:34.876  |  1504766014876  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"bf5ff01eb5aba1243353791ac27f536e","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:33:34.877  |  1504766014877  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:33:34.877  |  1504766014877  |  01  ] : {"token":"f91cce67504454283c2f8b06d4ad12bc"}
+-------------------------
+[  log    | 2017-09-07 14:33:34.878  |  1504766014878  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:33:34.878  |  1504766014878  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:33:34.878  |  1504766014878  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:33:34.878  |  1504766014878  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  00  ] : "来源"
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2Fstructure"
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/structure"}
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  01  ] : "ShareSpokesmanc983b76f2e3a6181f53abef43ffa67c9"
+-------------------------
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  02  ] : 0
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:33:38.899  |  1504766018899  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/structure"
+-------------------------
+[  log    | 2017-09-07 14:33:39.708  |  1504766019708  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:33:39.708  |  1504766019708  |  01  ] : "c983b76f2e3a6181f53abef43ffa67c9"
+-------------------------
+[  log    | 2017-09-07 14:33:39.708  |  1504766019708  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:33:39.708  |  1504766019708  |  01  ] : {"access_token":"RhGuDi1pDWPpOKHhCih7HLvlJi4d32-ZbdEpcYZw1rWubSYPS9kMI_0UiPBE5s-pdaZUX3RGauAiWUwm19kIYA","expires_in":7200,"refresh_token":"84-k9KZArYKCac0xF2P7fMGUA0jeGT4Pk6vqqcWNctMB5x-LNhOlya-5z4BPSFqjP6jXUOkPfVm2ON3v4m8efw","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:33:39.719  |  1504766019719  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:33:39.719  |  1504766019719  |  01  ] : 0
+[  log    | 2017-09-07 14:33:39.719  |  1504766019719  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:33:39.719  |  1504766019719  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:33:39.719  |  1504766019719  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:33:39.719  |  1504766019719  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/structure"
+-------------------------
+[  log    | 2017-09-07 14:33:39.719  |  1504766019719  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:33:39.719  |  1504766019719  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"f91cce67504454283c2f8b06d4ad12bc","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:33:39.724  |  1504766019724  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:33:39.724  |  1504766019724  |  01  ] : {"token":"c983b76f2e3a6181f53abef43ffa67c9"}
+-------------------------
+[  log    | 2017-09-07 14:33:39.727  |  1504766019727  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:33:39.727  |  1504766019727  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:33:39.727  |  1504766019727  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:33:39.727  |  1504766019727  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/structure"
+-------------------------
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  00  ] : "来源"
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2FdataInfo"
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"}
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  01  ] : "ShareSpokesmana458b41b7210f9cd86d8040b3531c58a"
+-------------------------
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  02  ] : 0
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:33:51.250  |  1504766031250  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:33:52.062  |  1504766032062  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:33:52.062  |  1504766032062  |  01  ] : "a458b41b7210f9cd86d8040b3531c58a"
+-------------------------
+[  log    | 2017-09-07 14:33:52.062  |  1504766032062  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:33:52.062  |  1504766032062  |  01  ] : {"access_token":"84-k9KZArYKCac0xF2P7fGMJ1TPVdnjdi2nkMnAY9vkcacJ7XYbWGXr_n2-2gWYuj9-kvjC44jOIgHF8Ku-l3w","expires_in":7200,"refresh_token":"qC4Hi7X4T4UhpFdjcJtabm2zDfPVIUOuRvd2EHlfoZVRVCVABe0EY1-57F_h-vTRj7KgWMqBfBb3EAl5mD-YMA","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:33:52.094  |  1504766032094  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:33:52.094  |  1504766032094  |  01  ] : 0
+[  log    | 2017-09-07 14:33:52.094  |  1504766032094  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:33:52.094  |  1504766032094  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:33:52.094  |  1504766032094  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:33:52.094  |  1504766032094  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:33:52.094  |  1504766032094  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:33:52.094  |  1504766032094  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"c983b76f2e3a6181f53abef43ffa67c9","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:33:52.095  |  1504766032095  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:33:52.095  |  1504766032095  |  01  ] : {"token":"a458b41b7210f9cd86d8040b3531c58a"}
+-------------------------
+[  log    | 2017-09-07 14:33:52.124  |  1504766032124  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:33:52.124  |  1504766032124  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:33:52.124  |  1504766032125  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:33:52.124  |  1504766032125  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:33:53.951  |  1504766033951  |  00  ] : "来源"
+[  log    | 2017-09-07 14:33:53.951  |  1504766033951  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2FdataInfo"
+[  log    | 2017-09-07 14:33:53.951  |  1504766033951  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"}
+[  log    | 2017-09-07 14:33:53.951  |  1504766033951  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:33:53.951  |  1504766033951  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:33:53.951  |  1504766033951  |  01  ] : "ShareSpokesmanb8364cc7f768267e5acfcb0e5c87e3f6"
+-------------------------
+[  log    | 2017-09-07 14:33:53.952  |  1504766033952  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:33:53.952  |  1504766033952  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:33:53.952  |  1504766033952  |  02  ] : 0
+[  log    | 2017-09-07 14:33:53.952  |  1504766033952  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:33:53.952  |  1504766033952  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:33:53.952  |  1504766033952  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:33:53.952  |  1504766033952  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:33:54.730  |  1504766034730  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:33:54.730  |  1504766034730  |  01  ] : "b8364cc7f768267e5acfcb0e5c87e3f6"
+-------------------------
+[  log    | 2017-09-07 14:33:54.730  |  1504766034730  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:33:54.730  |  1504766034730  |  01  ] : {"access_token":"6cyJ5aPo-f-57TBR910E11nQVtPTee5W7HNzAjQMCn24QmYzeHHhdKuEuSFRON1Bh80VN4tdKNdxaCgTMbMRJg","expires_in":7200,"refresh_token":"l7W6W4LDcpQZyMUOQ5scJL5Y7rkCuyvarxWXJZSZaytAH-efYeJ-6FdOJ9Yuh8HJYoxQZvcOWdnp26zD3vtGVQ","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:33:54.761  |  1504766034761  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:33:54.761  |  1504766034761  |  01  ] : 0
+[  log    | 2017-09-07 14:33:54.761  |  1504766034761  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:33:54.761  |  1504766034761  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:33:54.761  |  1504766034761  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:33:54.761  |  1504766034761  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:33:54.761  |  1504766034761  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:33:54.761  |  1504766034761  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"a458b41b7210f9cd86d8040b3531c58a","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:33:54.762  |  1504766034762  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:33:54.762  |  1504766034762  |  01  ] : {"token":"b8364cc7f768267e5acfcb0e5c87e3f6"}
+-------------------------
+[  log    | 2017-09-07 14:33:54.769  |  1504766034769  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:33:54.769  |  1504766034769  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:33:54.769  |  1504766034769  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:33:54.769  |  1504766034769  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  00  ] : "来源"
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2Fstructure"
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/structure"}
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  01  ] : "ShareSpokesmanb5972581d057b0ed6a6f15e31377a080"
+-------------------------
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  02  ] : 0
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:33:59.545  |  1504766039545  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/structure"
+-------------------------
+[  log    | 2017-09-07 14:34:00.437  |  1504766040437  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:34:00.437  |  1504766040437  |  01  ] : "b5972581d057b0ed6a6f15e31377a080"
+-------------------------
+[  log    | 2017-09-07 14:34:00.437  |  1504766040437  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:34:00.437  |  1504766040437  |  01  ] : {"access_token":"3Qp3C8JQ8Q1iYcMorY1pgjcy0zmCS3G4Z53x2IiObgTw_0zLow9omzRXRwsz-CmHt6zofOjwa_8nwqp8tOpDwQ","expires_in":7200,"refresh_token":"ki46Kiqw_EKnwRK8AjR5uEgiLB8OQEIuknsI9Ab7KqVOXQx93gxr6FeoLYj9xMraUJGvi7BpxIXSBEjSCgHcZA","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:34:00.452  |  1504766040452  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:34:00.452  |  1504766040452  |  01  ] : 0
+[  log    | 2017-09-07 14:34:00.452  |  1504766040452  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:34:00.452  |  1504766040452  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:34:00.452  |  1504766040452  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:34:00.452  |  1504766040452  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/structure"
+-------------------------
+[  log    | 2017-09-07 14:34:00.452  |  1504766040452  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:34:00.452  |  1504766040452  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"b8364cc7f768267e5acfcb0e5c87e3f6","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:34:00.458  |  1504766040458  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:34:00.458  |  1504766040458  |  01  ] : {"token":"b5972581d057b0ed6a6f15e31377a080"}
+-------------------------
+[  log    | 2017-09-07 14:34:00.461  |  1504766040461  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:34:00.461  |  1504766040461  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:34:00.461  |  1504766040461  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:34:00.461  |  1504766040461  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/structure"
+-------------------------
+[  log    | 2017-09-07 14:34:32.045  |  1504766072045  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:35:00.525  |  1504766100526  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:35:02.275  |  1504766102275  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:35:06.644  |  1504766106644  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:36:23.714  |  1504766183714  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:36:27.483  |  1504766187483  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:36:37.117  |  1504766197117  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:36:59.255  |  1504766219255  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:37:05.982  |  1504766225982  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:37:30.988  |  1504766250988  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:37:34.294  |  1504766254294  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:39:14.887  |  1504766354887  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:39:17.647  |  1504766357647  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:40:32.222  |  1504766432222  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:42:02.431  |  1504766522431  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:42:38.248  |  1504766558248  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:43:43.825  |  1504766623825  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:43:48.645  |  1504766628645  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:43:49.668  |  1504766629668  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:43:50.058  |  1504766630058  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:43:57.468  |  1504766637469  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:44:04.048  |  1504766644048  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  00  ] : "来源"
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2FdataInfo"
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"}
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  01  ] : "ShareSpokesman8c35e67e43bd632c966df6b9d01f3fc5"
+-------------------------
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  02  ] : 0
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:44:24.575  |  1504766664575  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:44:25.713  |  1504766665713  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:44:25.713  |  1504766665713  |  01  ] : "8c35e67e43bd632c966df6b9d01f3fc5"
+-------------------------
+[  log    | 2017-09-07 14:44:25.713  |  1504766665713  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:44:25.713  |  1504766665713  |  01  ] : {"access_token":"19-Ju2z8wUze7WBIVVdWhRaPZlU_SxT0Kcp3XOMZm_vZ2o20VGlspytwETvFGMPxi2BdJt_jK2Zd5cYyhjj3iA","expires_in":7200,"refresh_token":"Xou83xTx1m10cNpQDOGiiiK_0Wnj1Ugq1HRb3u0cNP-lHCsCbuO562hB3VSb998VEV0q8q8Oh9zSsEzh-0du2A","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:44:25.752  |  1504766665752  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:44:25.752  |  1504766665752  |  01  ] : 0
+[  log    | 2017-09-07 14:44:25.752  |  1504766665752  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:44:25.752  |  1504766665752  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:44:25.752  |  1504766665752  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:44:25.752  |  1504766665752  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:44:25.752  |  1504766665752  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:44:25.752  |  1504766665752  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"b5972581d057b0ed6a6f15e31377a080","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:44:25.757  |  1504766665757  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:44:25.757  |  1504766665757  |  01  ] : {"token":"8c35e67e43bd632c966df6b9d01f3fc5"}
+-------------------------
+[  log    | 2017-09-07 14:44:25.760  |  1504766665760  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:44:25.760  |  1504766665760  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:44:25.760  |  1504766665760  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:44:25.760  |  1504766665760  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  00  ] : "来源"
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2FdataInfo"
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"}
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  01  ] : "ShareSpokesman7a2ae2e37d8b125945eb9171799e1b8d"
+-------------------------
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  02  ] : 0
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:44:27.634  |  1504766667634  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:44:28.713  |  1504766668713  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:44:28.713  |  1504766668713  |  01  ] : "7a2ae2e37d8b125945eb9171799e1b8d"
+-------------------------
+[  log    | 2017-09-07 14:44:28.713  |  1504766668713  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:44:28.713  |  1504766668713  |  01  ] : {"access_token":"8pvnDAR0_tzA5nDbxnLIbvEpCkKTuHgKPR6Nl_NG4Q7GLdKnRmBtSYkvj4P8PYi85_gnkPbnGAosYHX8o7rUVA","expires_in":7200,"refresh_token":"2vSNRV5onnxQiifiFKiBi1JiFZwZ0reecsjyTF_x9V-eaBJ0fOkEac12zrAEN8B7uxtAeNp9J9kygIoUX7_QjQ","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:44:28.752  |  1504766668752  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:44:28.752  |  1504766668752  |  01  ] : 0
+[  log    | 2017-09-07 14:44:28.752  |  1504766668752  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:44:28.752  |  1504766668752  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:44:28.752  |  1504766668752  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:44:28.752  |  1504766668752  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:44:28.752  |  1504766668752  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:44:28.752  |  1504766668752  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"8c35e67e43bd632c966df6b9d01f3fc5","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:44:28.757  |  1504766668757  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:44:28.757  |  1504766668757  |  01  ] : {"token":"7a2ae2e37d8b125945eb9171799e1b8d"}
+-------------------------
+[  log    | 2017-09-07 14:44:28.760  |  1504766668760  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:44:28.760  |  1504766668760  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:44:28.760  |  1504766668760  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:44:28.760  |  1504766668760  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:44:34.437  |  1504766674437  |  00  ] : "来源"
+[  log    | 2017-09-07 14:44:34.437  |  1504766674437  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2Fmanage"
+[  log    | 2017-09-07 14:44:34.437  |  1504766674437  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/manage"}
+[  log    | 2017-09-07 14:44:34.437  |  1504766674437  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:44:34.438  |  1504766674438  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:44:34.438  |  1504766674438  |  01  ] : "ShareSpokesman306645e9d887c72dce6459504fe81a0b"
+-------------------------
+[  log    | 2017-09-07 14:44:34.438  |  1504766674438  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:44:34.438  |  1504766674438  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:44:34.438  |  1504766674438  |  02  ] : 0
+[  log    | 2017-09-07 14:44:34.438  |  1504766674438  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:44:34.438  |  1504766674438  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:44:34.438  |  1504766674438  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:44:34.438  |  1504766674438  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/manage"
+-------------------------
+[  log    | 2017-09-07 14:44:35.298  |  1504766675298  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:44:35.298  |  1504766675298  |  01  ] : "306645e9d887c72dce6459504fe81a0b"
+-------------------------
+[  log    | 2017-09-07 14:44:35.298  |  1504766675298  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:44:35.298  |  1504766675298  |  01  ] : {"access_token":"FG0-vzitGpdBE68J0V7PWRopqMhJOg9DUS7dWX7y9LMslxT1XGVzNR5pM6DePjs8Zyc24X590RGbvfv-_4Vhag","expires_in":7200,"refresh_token":"nfnKNuKDp8chH_XDte6PhS2pj3yEQJVJ-VAk03NrN2ov9DK1WjMz3NGw6l86R9qcukUNukWLO7HLHkJXPEmuFw","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:44:35.386  |  1504766675386  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:44:35.386  |  1504766675386  |  01  ] : 0
+[  log    | 2017-09-07 14:44:35.386  |  1504766675386  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:44:35.386  |  1504766675386  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:44:35.386  |  1504766675386  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:44:35.386  |  1504766675386  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/manage"
+-------------------------
+[  log    | 2017-09-07 14:44:35.386  |  1504766675386  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:44:35.386  |  1504766675386  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"7a2ae2e37d8b125945eb9171799e1b8d","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:44:35.392  |  1504766675392  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:44:35.392  |  1504766675392  |  01  ] : {"token":"306645e9d887c72dce6459504fe81a0b"}
+-------------------------
+[  log    | 2017-09-07 14:44:35.395  |  1504766675395  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:44:35.395  |  1504766675395  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:44:35.395  |  1504766675395  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:44:35.395  |  1504766675395  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/manage"
+-------------------------
+[  log    | 2017-09-07 14:45:05.770  |  1504766705770  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:45:37.480  |  1504766737480  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  00  ] : "来源"
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  01  ] : "http://ssm.echao.com:8081/fans/auth?manager_id=8&fans_id=106&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D106%26source_fans_id%3D0%26manager_id%3D8%26from%3Dgroupmessage%26isappinstalled%3D0%23!%2Fjoin"
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  02  ] : {"manager_id":"8","fans_id":"106","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"}
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  01  ] : "ShareSpokesman7211a29289353b53f27b2c707b229610"
+-------------------------
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  02  ] : 8
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  04  ] : 106
+-------------------------
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:46:02.539  |  1504766762539  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:46:05.005  |  1504766765006  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:46:05.005  |  1504766765006  |  01  ] : "7211a29289353b53f27b2c707b229610"
+-------------------------
+[  log    | 2017-09-07 14:46:05.006  |  1504766765006  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:46:05.006  |  1504766765006  |  01  ] : {"access_token":"34n1-3crEyZ87GMkuCKrVMImcvc3JMmJBuixNFdBgTXmBK-hZ3T_5Hq1_WRGJ66fVwzPzctqGfH8AJP2i2C2qQ","expires_in":7200,"refresh_token":"lcpYX4K3l6DRjpenfxpok6hjr81tH31xs7TPFnYQbJZUWbMmIuwiSm6JH-mn2yjbzKyCO3a8iKMlXC_yH-DXiw","openid":"oMPMC04SaUBl4_QTXpz1nhAYgUuc","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  00  ] : "来源"
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=111&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D111%26source_fans_id%3D111%26from%3Dsinglemessage%26isappinstalled%3D0%23!%2Fpersonal"
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  02  ] : {"fans_id":"111","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=111&source_fans_id=111&from=singlemessage&isappinstalled=0#!/personal"}
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  01  ] : "ShareSpokesmand731381bf5c97446d7767d6ad5b94c02"
+-------------------------
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  02  ] : 0
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  04  ] : 111
+-------------------------
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:46:05.013  |  1504766765013  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=111&source_fans_id=111&from=singlemessage&isappinstalled=0#!/personal"
+-------------------------
+[  log    | 2017-09-07 14:46:06.005  |  1504766766005  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:46:06.005  |  1504766766005  |  01  ] : 8
+[  log    | 2017-09-07 14:46:06.005  |  1504766766005  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:46:06.005  |  1504766766005  |  03  ] : 106
+-------------------------
+[  log    | 2017-09-07 14:46:06.005  |  1504766766005  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:46:06.005  |  1504766766005  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:46:06.005  |  1504766766005  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:46:06.005  |  1504766766005  |  01  ] : {"id":106,"manager_id":8,"shopowner_id":8,"clerk_id":106,"prolocutor_id":106,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC0_zWTSi8r9ng98QcpLk1EZU","unionid":null,"nickname":"郭华","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504588445.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503884637,"realname":"郭华","mobile":18680338133,"password":null,"password_hash":"0.226b122117a556","amount":1,"cash":6,"consume":0,"user_level":1,"token":"71dd23c73dbb396bed3dc4de282a965f","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt1ec5kjC925O4BC-uLaXv3g","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:46:06.024  |  1504766766024  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:46:06.024  |  1504766766024  |  01  ] : {"token":"7211a29289353b53f27b2c707b229610"}
+-------------------------
+[  log    | 2017-09-07 14:46:06.027  |  1504766766027  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:46:06.027  |  1504766766027  |  01  ] : {"fans_id":204,"source_fans_id":106,"manager_id":"8","from":"groupmessage","isappinstalled":"0"}
+-------------------------
+[  log    | 2017-09-07 14:46:06.027  |  1504766766027  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:46:06.027  |  1504766766027  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=204&source_fans_id=106&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:46:10.495  |  1504766770496  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:46:10.495  |  1504766770496  |  01  ] : "d731381bf5c97446d7767d6ad5b94c02"
+-------------------------
+[  log    | 2017-09-07 14:46:10.496  |  1504766770496  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:46:10.496  |  1504766770496  |  01  ] : {"access_token":"VQBGLDiRrQTKkK_yKY733MC2blIw03yMqhc10qtz3DTUmHvx9Y3gudtQaftNWnvQ7xR_Oe3CNgL_HN5ySYX82Q","expires_in":7200,"refresh_token":"ym3P2n5EHq3LZ8sbbPPUVNM_b1vBxiwSpHyE-Js8ikvoDEAuPOFIoGwMya7188o0SSpLHngpym7Cvptjpnw_xQ","openid":"oMPMC02XlK2gw5VhXPSO4DmITv_w","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:46:10.539  |  1504766770539  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504680370 and create_time < 1504766770"
+-------------------------
+[  log    | 2017-09-07 14:46:10.539  |  1504766770539  |  00  ] : 1504680370
+-------------------------
+[  log    | 2017-09-07 14:46:10.543  |  1504766770543  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:46:10.543  |  1504766770543  |  01  ] : 0
+[  log    | 2017-09-07 14:46:10.543  |  1504766770543  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:46:10.543  |  1504766770543  |  03  ] : 111
+-------------------------
+[  log    | 2017-09-07 14:46:10.543  |  1504766770543  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:46:10.543  |  1504766770543  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=111&source_fans_id=111&from=singlemessage&isappinstalled=0#!/personal"
+-------------------------
+[  log    | 2017-09-07 14:46:10.543  |  1504766770543  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:46:10.543  |  1504766770543  |  01  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:46:10.549  |  1504766770549  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504593970 and create_time < 1504680370"
+-------------------------
+[  log    | 2017-09-07 14:46:10.549  |  1504766770549  |  00  ] : 1504593970
+-------------------------
+[  log    | 2017-09-07 14:46:10.553  |  1504766770553  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:46:10.553  |  1504766770553  |  01  ] : {"fans_id":"111","source_fans_id":"111","from":"singlemessage","isappinstalled":"0"}
+-------------------------
+[  log    | 2017-09-07 14:46:10.553  |  1504766770553  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:46:10.553  |  1504766770553  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=111&source_fans_id=111&from=singlemessage&isappinstalled=0#!/personal"
+-------------------------
+[  log    | 2017-09-07 14:46:10.559  |  1504766770559  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504507570 and create_time < 1504593970"
+-------------------------
+[  log    | 2017-09-07 14:46:10.559  |  1504766770559  |  00  ] : 1504507570
+-------------------------
+[  log    | 2017-09-07 14:46:10.563  |  1504766770563  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504421170 and create_time < 1504507570"
+-------------------------
+[  log    | 2017-09-07 14:46:10.563  |  1504766770563  |  00  ] : 1504421170
+-------------------------
+[  log    | 2017-09-07 14:46:10.567  |  1504766770567  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504334770 and create_time < 1504421170"
+-------------------------
+[  log    | 2017-09-07 14:46:10.567  |  1504766770567  |  00  ] : 1504334770
+-------------------------
+[  log    | 2017-09-07 14:46:10.571  |  1504766770571  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504248370 and create_time < 1504334770"
+-------------------------
+[  log    | 2017-09-07 14:46:10.571  |  1504766770571  |  00  ] : 1504248370
+-------------------------
+[  log    | 2017-09-07 14:46:10.575  |  1504766770575  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504161970 and create_time < 1504248370"
+-------------------------
+[  log    | 2017-09-07 14:46:10.575  |  1504766770575  |  00  ] : 1504161970
+-------------------------
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  00  ] : "来源"
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  01  ] : "http://ssm.echao.com:8081/fans/auth?manager_id=8&fans_id=106&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D106%26source_fans_id%3D0%26manager_id%3D8%26from%3Dgroupmessage%26isappinstalled%3D0%23!%2Fjoin"
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  02  ] : {"manager_id":"8","fans_id":"106","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"}
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  01  ] : "ShareSpokesman7a9b2e10325970eecde48f5da122c6a7"
+-------------------------
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  02  ] : 8
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  04  ] : 106
+-------------------------
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:46:28.971  |  1504766788971  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:46:40.109  |  1504766800109  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:46:40.109  |  1504766800109  |  01  ] : "7a9b2e10325970eecde48f5da122c6a7"
+-------------------------
+[  log    | 2017-09-07 14:46:40.109  |  1504766800109  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:46:40.109  |  1504766800109  |  01  ] : {"access_token":"k_WkluT8kdA5zDChlQ-XtTREMTNAL8JOYgRr80ntkrKwSoxuo05s3YHMtIss6c1Z9zIeVtsbt3s4ZfNXBzwuxPJrAqxPxgktOJERVdsnIRo","expires_in":7200,"refresh_token":"3fEK4fBcI7MdYw-fCL4WU6BeT4-NWGU5i_vQAmGLD56BWf2rN7xRds5d_5Aus4I_IEjwX7hYNSDAfdSegTTFycja4gAUJnJC7aN3wnBjSts","openid":"oMPMC02M9ralQxzzM5gzSJOr3hJQ","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:46:40.120  |  1504766800120  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:46:40.120  |  1504766800120  |  01  ] : 8
+[  log    | 2017-09-07 14:46:40.120  |  1504766800120  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:46:40.120  |  1504766800120  |  03  ] : 106
+-------------------------
+[  log    | 2017-09-07 14:46:40.120  |  1504766800120  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:46:40.120  |  1504766800120  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:46:40.120  |  1504766800120  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:46:40.120  |  1504766800120  |  01  ] : {"id":106,"manager_id":8,"shopowner_id":8,"clerk_id":106,"prolocutor_id":106,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC0_zWTSi8r9ng98QcpLk1EZU","unionid":null,"nickname":"郭华","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504588445.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503884637,"realname":"郭华","mobile":18680338133,"password":null,"password_hash":"0.226b122117a556","amount":1,"cash":6,"consume":0,"user_level":1,"token":"71dd23c73dbb396bed3dc4de282a965f","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt1ec5kjC925O4BC-uLaXv3g","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:46:40.126  |  1504766800126  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:46:40.126  |  1504766800126  |  01  ] : {"token":"7a9b2e10325970eecde48f5da122c6a7"}
+-------------------------
+[  log    | 2017-09-07 14:46:40.128  |  1504766800128  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:46:40.128  |  1504766800128  |  01  ] : {"fans_id":210,"source_fans_id":106,"manager_id":"8","from":"groupmessage","isappinstalled":"0"}
+-------------------------
+[  log    | 2017-09-07 14:46:40.128  |  1504766800128  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:46:40.128  |  1504766800128  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=210&source_fans_id=106&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:47:18.622  |  1504766838622  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:48:00.977  |  1504766880977  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:48:04.611  |  1504766884611  |  00  ] : "重启"
+-------------------------
+[  log    | 2017-09-07 14:48:04.611  |  1504766884611  |  00  ] : "重启成功"
+-------------------------
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  00  ] : "来源"
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  01  ] : "http://ssm.echao.com:8081/fans/auth?manager_id=8&fans_id=106&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D106%26source_fans_id%3D0%26manager_id%3D8%26from%3Dgroupmessage%26isappinstalled%3D0%23!%2Fjoin"
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  02  ] : {"manager_id":"8","fans_id":"106","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"}
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  01  ] : "ShareSpokesman84550307a89a2cdf96b2bdf23201c50e"
+-------------------------
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  02  ] : 8
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  04  ] : 106
+-------------------------
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:48:24.726  |  1504766904726  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:48:26.143  |  1504766906143  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:48:26.143  |  1504766906143  |  01  ] : "84550307a89a2cdf96b2bdf23201c50e"
+-------------------------
+[  log    | 2017-09-07 14:48:26.143  |  1504766906143  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:48:26.143  |  1504766906143  |  01  ] : {"access_token":"wN5KD-AfQ09RuS8LAtHPTvWeIpPD7e8m8qIUXeuwCuLMRp5pfOrB3gWSFvOFgDKAZabrNgHO3nAShp3OyyaFw8GDg5oeZxel6Fw8CNIhhzM","expires_in":7200,"refresh_token":"l_YPPMyWPZBYbgpQdxN6lw0E8-mKxU9xwAwnhslVqFmtXyS4lLZBqw4RriL85313nTC07jfviohlC2H1TMRb7sHrr4CUF3RDzVR5l1OZgwA","openid":"oMPMC02M9ralQxzzM5gzSJOr3hJQ","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:48:26.153  |  1504766906153  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:48:26.153  |  1504766906153  |  01  ] : 8
+[  log    | 2017-09-07 14:48:26.153  |  1504766906153  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:48:26.153  |  1504766906153  |  03  ] : 106
+-------------------------
+[  log    | 2017-09-07 14:48:26.153  |  1504766906153  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:48:26.153  |  1504766906153  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=106&source_fans_id=0&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:48:26.153  |  1504766906153  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:48:26.153  |  1504766906153  |  01  ] : {"id":106,"manager_id":8,"shopowner_id":8,"clerk_id":106,"prolocutor_id":106,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC0_zWTSi8r9ng98QcpLk1EZU","unionid":null,"nickname":"郭华","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504588445.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503884637,"realname":"郭华","mobile":18680338133,"password":null,"password_hash":"0.226b122117a556","amount":1,"cash":6,"consume":0,"user_level":1,"token":"71dd23c73dbb396bed3dc4de282a965f","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt1ec5kjC925O4BC-uLaXv3g","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:48:26.155  |  1504766906155  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:48:26.155  |  1504766906155  |  01  ] : {"token":"84550307a89a2cdf96b2bdf23201c50e"}
+-------------------------
+[  log    | 2017-09-07 14:48:26.166  |  1504766906166  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:48:26.166  |  1504766906166  |  01  ] : {"fans_id":210,"source_fans_id":106,"manager_id":"8","from":"groupmessage","isappinstalled":"0"}
+-------------------------
+[  log    | 2017-09-07 14:48:26.166  |  1504766906167  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:48:26.166  |  1504766906167  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=210&source_fans_id=106&manager_id=8&from=groupmessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:50:15.966  |  1504767015966  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:50:15.966  |  1504767015966  |  01  ] : "d731381bf5c97446d7767d6ad5b94c02"
+-------------------------
+[  log    | 2017-09-07 14:50:15.966  |  1504767015966  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:50:15.966  |  1504767015966  |  01  ] : {"errcode":40163,"errmsg":"code been used, hints: [ req_id: BB6F.a0016th54 ]"}
+-------------------------
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  00  ] : "来源"
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=111&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D111%26source_fans_id%3D111%26from%3Dsinglemessage%26isappinstalled%3D0%23!%2Fpersonal"
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  02  ] : {"fans_id":"111","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=111&source_fans_id=111&from=singlemessage&isappinstalled=0#!/personal"}
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  01  ] : "ShareSpokesman42b48cfd8ba2b1bc84a5075140f4ea41"
+-------------------------
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  02  ] : 0
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  04  ] : 111
+-------------------------
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:52:36.960  |  1504767156960  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=111&source_fans_id=111&from=singlemessage&isappinstalled=0#!/personal"
+-------------------------
+[  log    | 2017-09-07 14:53:56.677  |  1504767236678  |  00  ] : "来源"
+[  log    | 2017-09-07 14:53:56.677  |  1504767236678  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%26from%3Dsinglemessage%23!%2Fjoin"
+[  log    | 2017-09-07 14:53:56.677  |  1504767236678  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"}
+[  log    | 2017-09-07 14:53:56.677  |  1504767236678  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:53:56.678  |  1504767236678  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:53:56.678  |  1504767236678  |  01  ] : "ShareSpokesman1e0d1331e451da34b17b63778d605aaa"
+-------------------------
+[  log    | 2017-09-07 14:53:56.678  |  1504767236678  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:53:56.678  |  1504767236678  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:53:56.678  |  1504767236678  |  02  ] : 0
+[  log    | 2017-09-07 14:53:56.678  |  1504767236678  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:53:56.678  |  1504767236678  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:53:56.678  |  1504767236678  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:53:56.678  |  1504767236678  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"
+-------------------------
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  00  ] : "来源"
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%26from%3Dsinglemessage%23!%2Fjoin"
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"}
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  01  ] : "ShareSpokesman6e938fff15b69fa3728a7bd0eb9bde9a"
+-------------------------
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  02  ] : 0
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:53:57.054  |  1504767237054  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"
+-------------------------
+[  log    | 2017-09-07 14:53:58.101  |  1504767238101  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:53:58.101  |  1504767238101  |  01  ] : "1e0d1331e451da34b17b63778d605aaa"
+-------------------------
+[  log    | 2017-09-07 14:53:58.101  |  1504767238101  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:53:58.101  |  1504767238101  |  01  ] : {"access_token":"I_wmJTwEQZ9qX1o0fYP9sGOkxdRIQSqj77K16Hug-o2gtqkoCAZJqKlxl-c4kqTuQZMrgDUDw-jEPH0AHdHChQ","expires_in":7200,"refresh_token":"vPjNoi29f8_hPi8fPgL_vTnTix_EPY7ffl_iBaXB62V6IWrTtLSsPb85tqcVUWVLUkpFD1vHsGC6v42KsrL7KA","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:53:58.113  |  1504767238113  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:53:58.113  |  1504767238113  |  01  ] : 0
+[  log    | 2017-09-07 14:53:58.113  |  1504767238113  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:53:58.113  |  1504767238113  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:53:58.114  |  1504767238114  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:53:58.114  |  1504767238114  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"
+-------------------------
+[  log    | 2017-09-07 14:53:58.114  |  1504767238114  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:53:58.114  |  1504767238114  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"306645e9d887c72dce6459504fe81a0b","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:53:58.116  |  1504767238116  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:53:58.116  |  1504767238116  |  01  ] : {"token":"1e0d1331e451da34b17b63778d605aaa"}
+-------------------------
+[  log    | 2017-09-07 14:53:58.124  |  1504767238124  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:53:58.124  |  1504767238124  |  01  ] : {"fans_id":83,"source_fans_id":83,"from":"singlemessage"}
+-------------------------
+[  log    | 2017-09-07 14:53:58.124  |  1504767238124  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:53:58.124  |  1504767238124  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"
+-------------------------
+[  log    | 2017-09-07 14:54:05.708  |  1504767245708  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:54:23.938  |  1504767263939  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:54:39.925  |  1504767279925  |  00  ] : "101"
+-------------------------
+[  log    | 2017-09-07 14:54:43.868  |  1504767283868  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:54:45.469  |  1504767285469  |  00  ] : "来源"
+[  log    | 2017-09-07 14:54:45.469  |  1504767285469  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%26from%3Dsinglemessage%26isappinstalled%3D0%23!%2Fjoin"
+[  log    | 2017-09-07 14:54:45.469  |  1504767285469  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage&isappinstalled=0#!/join"}
+[  log    | 2017-09-07 14:54:45.469  |  1504767285469  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:54:45.469  |  1504767285469  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:54:45.469  |  1504767285469  |  01  ] : "ShareSpokesmana6839cb3c43a7a8f1600e259e1da30ce"
+-------------------------
+[  log    | 2017-09-07 14:54:45.471  |  1504767285475  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:54:45.471  |  1504767285475  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:54:45.471  |  1504767285475  |  02  ] : 0
+[  log    | 2017-09-07 14:54:45.471  |  1504767285475  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:54:45.471  |  1504767285475  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:54:45.475  |  1504767285475  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:54:45.475  |  1504767285475  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:54:46.969  |  1504767286969  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:54:46.969  |  1504767286969  |  01  ] : "a6839cb3c43a7a8f1600e259e1da30ce"
+-------------------------
+[  log    | 2017-09-07 14:54:46.970  |  1504767286970  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:54:46.970  |  1504767286970  |  01  ] : {"access_token":"QftCeK2AJdnbxwLWdOl4d1c0grAItcTRM2EHO6FvO47JZcVW5M_OUcxkwuiWuj1ZPETbNYPArzZYyS9takXexA","expires_in":7200,"refresh_token":"b7I7FPCHXJwT5GplqCSkHILZyr3AWvxnJft_eK4N5PIvO00TZHgo8ExlyzsVSctwRUVGyEgJ65nn-rz5UKZpoQ","openid":"oMPMC0wQ04XhLvh7H6rMvY31F46Q","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:54:46.980  |  1504767286981  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:54:46.980  |  1504767286981  |  01  ] : 0
+[  log    | 2017-09-07 14:54:46.980  |  1504767286981  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:54:46.980  |  1504767286981  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:54:46.981  |  1504767286981  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:54:46.981  |  1504767286981  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:54:46.981  |  1504767286981  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:54:46.981  |  1504767286981  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"1e0d1331e451da34b17b63778d605aaa","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:54:46.992  |  1504767286993  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:54:46.992  |  1504767286993  |  01  ] : {"fans_id":"83","source_fans_id":"83","from":"singlemessage","isappinstalled":"0"}
+-------------------------
+[  log    | 2017-09-07 14:54:46.993  |  1504767286993  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:54:46.993  |  1504767286993  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  00  ] : "来源"
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%26from%3Dsinglemessage%26isappinstalled%3D0%23!%2Fjoin"
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage&isappinstalled=0#!/join"}
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  01  ] : "ShareSpokesman0cfc25ff8d7065bba1d19491f074a924"
+-------------------------
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  02  ] : 0
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:54:55.352  |  1504767295352  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage&isappinstalled=0#!/join"
+-------------------------
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  00  ] : "来源"
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2Fstructure"
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/structure"}
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  01  ] : "ShareSpokesman6a5589bb9895c0cee23e3bb575353b5b"
+-------------------------
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  02  ] : 0
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:55:09.179  |  1504767309179  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/structure"
+-------------------------
+[  log    | 2017-09-07 14:55:10.147  |  1504767310147  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:55:10.147  |  1504767310147  |  01  ] : "6a5589bb9895c0cee23e3bb575353b5b"
+-------------------------
+[  log    | 2017-09-07 14:55:10.147  |  1504767310147  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:55:10.147  |  1504767310147  |  01  ] : {"access_token":"MFsN2k-gr9cRKZf8CQMJuvnbsV53RAg_yn9U1XO-Tv3QQYK8zvS9Kq3l5E74SjMSEIrrv9UKrGOVLKSiB3V5ig","expires_in":7200,"refresh_token":"gkNokE97CIvMTyKLIcQ1VCq_9LL9OkcZ6ov9x-oppyrITSDEuAJHLHFFlGLNA6CvewZ_XMV8Adl8qM-T0kDrag","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:55:10.158  |  1504767310158  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:55:10.158  |  1504767310158  |  01  ] : 0
+[  log    | 2017-09-07 14:55:10.158  |  1504767310158  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:55:10.158  |  1504767310158  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:55:10.158  |  1504767310158  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:55:10.158  |  1504767310158  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/structure"
+-------------------------
+[  log    | 2017-09-07 14:55:10.158  |  1504767310158  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:55:10.158  |  1504767310158  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"1e0d1331e451da34b17b63778d605aaa","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:55:10.165  |  1504767310165  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:55:10.165  |  1504767310165  |  01  ] : {"token":"6a5589bb9895c0cee23e3bb575353b5b"}
+-------------------------
+[  log    | 2017-09-07 14:55:10.168  |  1504767310168  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:55:10.168  |  1504767310168  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:55:10.168  |  1504767310168  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:55:10.168  |  1504767310168  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/structure"
+-------------------------
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  00  ] : "来源"
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2FdataInfo"
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"}
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  01  ] : "ShareSpokesman2f0b1acd33648c1d565f008b4d1aa7af"
+-------------------------
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  02  ] : 0
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:56:23.204  |  1504767383204  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:56:24.185  |  1504767384185  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:56:24.185  |  1504767384185  |  01  ] : "2f0b1acd33648c1d565f008b4d1aa7af"
+-------------------------
+[  log    | 2017-09-07 14:56:24.185  |  1504767384185  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:56:24.185  |  1504767384185  |  01  ] : {"access_token":"qt8PbCBr8WTTvImKPjFpmiqfcx-t7dSwizWI39ZTO1BU_OBBt5_SABm7n6fUD2jv6IjOrHiBYMpACxky6aHoOA","expires_in":7200,"refresh_token":"glWivOBTq2HCJcySKOOAgooGZJNZ-Oh5ilvd5YiXomv8lKhKEtTI_wD0Ttg-6XjrUYSRTikbtep5QH3t5ELGNw","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:56:24.203  |  1504767384204  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:56:24.203  |  1504767384204  |  01  ] : 0
+[  log    | 2017-09-07 14:56:24.203  |  1504767384204  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:56:24.203  |  1504767384204  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:56:24.204  |  1504767384204  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:56:24.204  |  1504767384204  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:56:24.204  |  1504767384204  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:56:24.204  |  1504767384204  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"6a5589bb9895c0cee23e3bb575353b5b","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:56:24.205  |  1504767384205  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:56:24.205  |  1504767384205  |  01  ] : {"token":"2f0b1acd33648c1d565f008b4d1aa7af"}
+-------------------------
+[  log    | 2017-09-07 14:56:24.209  |  1504767384209  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:56:24.209  |  1504767384209  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:56:24.209  |  1504767384209  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:56:24.209  |  1504767384209  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  00  ] : "来源"
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fboss%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%23!%2FdataInfo"
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"}
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  01  ] : "ShareSpokesmanbbd3859b9f60bfacaf763d0c92a0135c"
+-------------------------
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  02  ] : 0
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:56:26.517  |  1504767386517  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:56:27.737  |  1504767387737  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:56:27.737  |  1504767387737  |  01  ] : "bbd3859b9f60bfacaf763d0c92a0135c"
+-------------------------
+[  log    | 2017-09-07 14:56:27.737  |  1504767387737  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:56:27.737  |  1504767387737  |  01  ] : {"access_token":"EVGsZIrpMQv94fi1yKaBaCG_T_yqAiPGSnlpjBfn2PeqArJEYirU4HvoauvEOz_7jeGw7Lt39z2k03gp2D7KZA","expires_in":7200,"refresh_token":"vPjNoi29f8_hPi8fPgL_vTjdEi6yfxsm8x19yTyQ423oYhBE2_UcXm0UOG0Km7dnEwlfDDPJpu3fL4JuHmskFQ","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:56:27.750  |  1504767387750  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:56:27.750  |  1504767387750  |  01  ] : 0
+[  log    | 2017-09-07 14:56:27.750  |  1504767387750  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:56:27.750  |  1504767387750  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:56:27.750  |  1504767387750  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:56:27.750  |  1504767387750  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:56:27.750  |  1504767387750  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:56:27.750  |  1504767387750  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"2f0b1acd33648c1d565f008b4d1aa7af","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:56:27.759  |  1504767387759  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:56:27.759  |  1504767387759  |  01  ] : {"token":"bbd3859b9f60bfacaf763d0c92a0135c"}
+-------------------------
+[  log    | 2017-09-07 14:56:27.765  |  1504767387765  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:56:27.765  |  1504767387765  |  01  ] : {"fans_id":83,"source_fans_id":83}
+-------------------------
+[  log    | 2017-09-07 14:56:27.765  |  1504767387765  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:56:27.765  |  1504767387765  |  01  ] : "http://ssm.echao.com/ShareSpokesman/boss/index.html?fans_id=83&source_fans_id=83#!/dataInfo"
+-------------------------
+[  log    | 2017-09-07 14:56:43.893  |  1504767403893  |  00  ] : "UNDEFINED"
+-------------------------
+[  log    | 2017-09-07 14:58:13.065  |  1504767493065  |  00  ] : "来源"
+[  log    | 2017-09-07 14:58:13.065  |  1504767493065  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=83&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Findex.html%3Ffans_id%3D83%26source_fans_id%3D83%26from%3Dsinglemessage%23!%2Fjoin"
+[  log    | 2017-09-07 14:58:13.065  |  1504767493065  |  02  ] : {"fans_id":"83","url":"http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"}
+[  log    | 2017-09-07 14:58:13.065  |  1504767493065  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-07 14:58:13.065  |  1504767493065  |  00  ] : "A 授权ID"
+[  log    | 2017-09-07 14:58:13.065  |  1504767493065  |  01  ] : "ShareSpokesmanabc2a440c3208a71e5a4c4097f5f94ed"
+-------------------------
+[  log    | 2017-09-07 14:58:13.065  |  1504767493065  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-07 14:58:13.065  |  1504767493065  |  01  ] : "manager_id"
+[  log    | 2017-09-07 14:58:13.065  |  1504767493065  |  02  ] : 0
+[  log    | 2017-09-07 14:58:13.065  |  1504767493065  |  03  ] : "fans_id"
+[  log    | 2017-09-07 14:58:13.065  |  1504767493065  |  04  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:58:13.065  |  1504767493066  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:58:13.065  |  1504767493066  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"
+-------------------------
+[  log    | 2017-09-07 14:58:13.907  |  1504767493908  |  00  ] : "B 授权ID"
+[  log    | 2017-09-07 14:58:13.907  |  1504767493908  |  01  ] : "abc2a440c3208a71e5a4c4097f5f94ed"
+-------------------------
+[  log    | 2017-09-07 14:58:13.908  |  1504767493908  |  00  ] : "微信授权结果"
+[  log    | 2017-09-07 14:58:13.908  |  1504767493908  |  01  ] : {"access_token":"Smd-6BdQXjysGoL_KwnTWlz6fUgL2bem9fjSG16Yx95KXEmukfBs7MTmi3Vttt3Mk8XsZEl1MJhTV7XMMj4WBw","expires_in":7200,"refresh_token":"c6vmoHwlKqPCM7oYU0eUyCFi0-0TpR1rosM8nbwru_CvPQJ8fjWWa4FLfAvv4MLysaTJ-PZpvx-1__SCwFJHSg","openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-07 14:58:13.928  |  1504767493928  |  00  ] : "manager_id"
+[  log    | 2017-09-07 14:58:13.928  |  1504767493928  |  01  ] : 0
+[  log    | 2017-09-07 14:58:13.928  |  1504767493928  |  02  ] : "fans_id"
+[  log    | 2017-09-07 14:58:13.928  |  1504767493928  |  03  ] : 83
+-------------------------
+[  log    | 2017-09-07 14:58:13.928  |  1504767493928  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-07 14:58:13.928  |  1504767493928  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"
+-------------------------
+[  log    | 2017-09-07 14:58:13.928  |  1504767493928  |  00  ] : "邀请者"
+[  log    | 2017-09-07 14:58:13.928  |  1504767493928  |  01  ] : {"id":83,"manager_id":2,"shopowner_id":2,"clerk_id":83,"prolocutor_id":83,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC05zZLVMxy5DOv0pqYXp_dE8","unionid":null,"nickname":"MR.Right","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-9-5/1504593409.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503834475,"realname":"赖东超","mobile":15555555555,"password":null,"password_hash":"0.b3812842789730","amount":2005.01,"cash":2,"consume":0,"user_level":1,"token":"bbd3859b9f60bfacaf763d0c92a0135c","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt0uxgQoUSOV8mYWIK2qG8ts","t_text":null}
+-------------------------
+[  log    | 2017-09-07 14:58:13.934  |  1504767493934  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-07 14:58:13.934  |  1504767493934  |  01  ] : {"token":"abc2a440c3208a71e5a4c4097f5f94ed"}
+-------------------------
+[  log    | 2017-09-07 14:58:13.937  |  1504767493937  |  00  ] : "目标参数"
+[  log    | 2017-09-07 14:58:13.937  |  1504767493937  |  01  ] : {"fans_id":83,"source_fans_id":83,"from":"singlemessage"}
+-------------------------
+[  log    | 2017-09-07 14:58:13.937  |  1504767493937  |  00  ] : "回跳到目标"
+[  log    | 2017-09-07 14:58:13.937  |  1504767493937  |  01  ] : "http://ssm.echao.com/ShareSpokesman/index.html?fans_id=83&source_fans_id=83&from=singlemessage#!/join"
+-------------------------
+[  log    | 2017-09-07 15:00:16.993  |  1504767616994  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504681216 and create_time < 1504767616"
+-------------------------
+[  log    | 2017-09-07 15:00:16.994  |  1504767616994  |  00  ] : 1504681216
+-------------------------
+[  log    | 2017-09-07 15:00:16.995  |  1504767616995  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504594816 and create_time < 1504681216"
+-------------------------
+[  log    | 2017-09-07 15:00:16.995  |  1504767616995  |  00  ] : 1504594816
+-------------------------
+[  log    | 2017-09-07 15:00:16.996  |  1504767616996  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504508416 and create_time < 1504594816"
+-------------------------
+[  log    | 2017-09-07 15:00:16.996  |  1504767616996  |  00  ] : 1504508416
+-------------------------
+[  log    | 2017-09-07 15:00:16.998  |  1504767616998  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504422016 and create_time < 1504508416"
+-------------------------
+[  log    | 2017-09-07 15:00:16.998  |  1504767616998  |  00  ] : 1504422016
+-------------------------
+[  log    | 2017-09-07 15:00:17.008  |  1504767617008  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504335616 and create_time < 1504422016"
+-------------------------
+[  log    | 2017-09-07 15:00:17.008  |  1504767617008  |  00  ] : 1504335616
+-------------------------
+[  log    | 2017-09-07 15:00:17.012  |  1504767617012  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504249216 and create_time < 1504335616"
+-------------------------
+[  log    | 2017-09-07 15:00:17.012  |  1504767617012  |  00  ] : 1504249216
+-------------------------
+[  log    | 2017-09-07 15:00:17.020  |  1504767617020  |  00  ] : "select IFNULL(sum(total_price),0) refund from `db_order` where mid = '2' and status = 1 and pay_status = 4 and create_time > 1504162816 and create_time < 1504249216"
+-------------------------
+[  log    | 2017-09-07 15:00:17.020  |  1504767617020  |  00  ] : 1504162816
+-------------------------
+[  log    | 2017-09-07 15:01:20.118  |  1504767680118  |  00  ] : "重启"
+-------------------------
+[  log    | 2017-09-07 15:01:20.118  |  1504767680118  |  00  ] : "重启成功"

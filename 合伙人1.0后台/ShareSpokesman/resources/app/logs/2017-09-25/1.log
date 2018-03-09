@@ -1,0 +1,99 @@
+-------------------------
+[  log    | 2017-09-25 15:49:16.834  |  1506325756834  |  00  ] : "B 授权ID"
+[  log    | 2017-09-25 15:49:16.834  |  1506325756834  |  01  ] : "3e5fdc42bff5d8d7868457a9517a58c6"
+-------------------------
+[  log    | 2017-09-25 15:49:16.834  |  1506325756834  |  00  ] : "微信授权结果"
+[  log    | 2017-09-25 15:49:16.834  |  1506325756834  |  01  ] : {"errcode":40163,"errmsg":"code been used, hints: [ req_id: 3W6jGa0756th51 ]"}
+-------------------------
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  00  ] : "来源"
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=54&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fjoin%3Ffans_id%3D54%26source_fans_id%3D54%26from%3Dsinglemessage%26isappinstalled%3D0"
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  02  ] : {"fans_id":"54","url":"http://ssm.echao.com/ShareSpokesman/join?fans_id=54&source_fans_id=54&from=singlemessage&isappinstalled=0"}
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  00  ] : "A 授权ID"
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  01  ] : "ShareSpokesmana56c42c0dd6173610294fd9cf4f8899d"
+-------------------------
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  01  ] : "manager_id"
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  02  ] : 0
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  03  ] : "fans_id"
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  04  ] : 54
+-------------------------
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-25 15:50:08.724  |  1506325808724  |  01  ] : "http://ssm.echao.com/ShareSpokesman/join?fans_id=54&source_fans_id=54&from=singlemessage&isappinstalled=0"
+-------------------------
+[  log    | 2017-09-25 15:50:09.480  |  1506325809480  |  00  ] : "B 授权ID"
+[  log    | 2017-09-25 15:50:09.480  |  1506325809480  |  01  ] : "a56c42c0dd6173610294fd9cf4f8899d"
+-------------------------
+[  log    | 2017-09-25 15:50:09.480  |  1506325809480  |  00  ] : "微信授权结果"
+[  log    | 2017-09-25 15:50:09.480  |  1506325809480  |  01  ] : {"access_token":"m8vnJU18MHbdjdN6BE20dxownV9o1w6M-Agwj-qcMqH8xIypWthvI2RV0UMG9lUS5BW9BEaWGYza3jGAi_h31A","expires_in":7200,"refresh_token":"l7o1VoTvKzlWeuEQ9XaPVwlCwsR-d_rZ5feg4rKSx8RTg4fBbShWlrPGRg3f8tLEk78BrsEAwFfCURyAoT8xKw","openid":"oMPMC02M9ralQxzzM5gzSJOr3hJQ","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-25 15:50:09.493  |  1506325809493  |  00  ] : "manager_id"
+[  log    | 2017-09-25 15:50:09.493  |  1506325809493  |  01  ] : 0
+[  log    | 2017-09-25 15:50:09.493  |  1506325809493  |  02  ] : "fans_id"
+[  log    | 2017-09-25 15:50:09.493  |  1506325809493  |  03  ] : 54
+-------------------------
+[  log    | 2017-09-25 15:50:09.493  |  1506325809493  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-25 15:50:09.493  |  1506325809493  |  01  ] : "http://ssm.echao.com/ShareSpokesman/join?fans_id=54&source_fans_id=54&from=singlemessage&isappinstalled=0"
+-------------------------
+[  log    | 2017-09-25 15:50:09.493  |  1506325809493  |  00  ] : "邀请者"
+[  log    | 2017-09-25 15:50:09.493  |  1506325809493  |  01  ] : {"id":54,"manager_id":4,"shopowner_id":4,"clerk_id":54,"prolocutor_id":54,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC02M9ralQxzzM5gzSJOr3hJQ","unionid":null,"nickname":"六块的麻辣烫1","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-8-27/1503837101.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503831045,"realname":null,"mobile":15625297028,"password":null,"password_hash":"0.886ba403900025","amount":0.03,"cash":0,"consume":0,"user_level":1,"token":"209d6c884df89033c2e2730446b43704","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt_7dwgUmrOTMx3QJreuJSh0","t_text":null,"task_days":1506096000,"prolocutor_time":1505186118}
+-------------------------
+[  log    | 2017-09-25 15:50:09.498  |  1506325809498  |  00  ] : "创建粉丝签到表数据"
+[  log    | 2017-09-25 15:50:09.498  |  1506325809498  |  01  ] : {"openid":"oMPMC02M9ralQxzzM5gzSJOr3hJQ","taskcount":0,"sign_count":0,"count_do":0,"addtime":1506268800,"create_date":"","forward":0,"share":0,"develop_user":0,"complete_order":0,"manager_id":4,"shopowner_id":4,"clerk_id":54,"agent_id":54,"user_id":54,"task_type":0}
+-------------------------
+[  log    | 2017-09-25 15:50:09.503  |  1506325809503  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-25 15:50:09.503  |  1506325809503  |  01  ] : {"token":"a56c42c0dd6173610294fd9cf4f8899d","task_days":1506268800}
+-------------------------
+[  log    | 2017-09-25 15:50:09.505  |  1506325809505  |  00  ] : "目标参数"
+[  log    | 2017-09-25 15:50:09.505  |  1506325809505  |  01  ] : {"fans_id":54,"source_fans_id":54,"from":"singlemessage","isappinstalled":"0"}
+-------------------------
+[  log    | 2017-09-25 15:50:09.505  |  1506325809505  |  00  ] : "回跳到目标"
+[  log    | 2017-09-25 15:50:09.505  |  1506325809505  |  01  ] : "http://ssm.echao.com/ShareSpokesman/join?fans_id=54&source_fans_id=54&from=singlemessage&isappinstalled=0"
+-------------------------
+[  log    | 2017-09-25 15:50:30.546  |  1506325830546  |  00  ] : "来源"
+[  log    | 2017-09-25 15:50:30.546  |  1506325830546  |  01  ] : "http://ssm.echao.com:8081/fans/auth?fans_id=54&url=http%3A%2F%2Fssm.echao.com%2FShareSpokesman%2Fjoin%3Ffans_id%3D54%26source_fans_id%3D54%26from%3Dsinglemessage%26isappinstalled%3D0"
+[  log    | 2017-09-25 15:50:30.546  |  1506325830546  |  02  ] : {"fans_id":"54","url":"http://ssm.echao.com/ShareSpokesman/join?fans_id=54&source_fans_id=54&from=singlemessage&isappinstalled=0"}
+[  log    | 2017-09-25 15:50:30.546  |  1506325830546  |  03  ] : {}
+-------------------------
+[  log    | 2017-09-25 15:50:30.546  |  1506325830546  |  00  ] : "A 授权ID"
+[  log    | 2017-09-25 15:50:30.546  |  1506325830546  |  01  ] : "ShareSpokesmanfaf09e1ac4ea92039259f2cb405db6c9"
+-------------------------
+[  log    | 2017-09-25 15:50:30.546  |  1506325830546  |  00  ] : "开始进入授权流程"
+[  log    | 2017-09-25 15:50:30.546  |  1506325830546  |  01  ] : "manager_id"
+[  log    | 2017-09-25 15:50:30.546  |  1506325830546  |  02  ] : 0
+[  log    | 2017-09-25 15:50:30.546  |  1506325830546  |  03  ] : "fans_id"
+[  log    | 2017-09-25 15:50:30.546  |  1506325830546  |  04  ] : 54
+-------------------------
+[  log    | 2017-09-25 15:50:30.546  |  1506325830547  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-25 15:50:30.546  |  1506325830547  |  01  ] : "http://ssm.echao.com/ShareSpokesman/join?fans_id=54&source_fans_id=54&from=singlemessage&isappinstalled=0"
+-------------------------
+[  log    | 2017-09-25 15:50:31.037  |  1506325831037  |  00  ] : "B 授权ID"
+[  log    | 2017-09-25 15:50:31.037  |  1506325831037  |  01  ] : "faf09e1ac4ea92039259f2cb405db6c9"
+-------------------------
+[  log    | 2017-09-25 15:50:31.037  |  1506325831037  |  00  ] : "微信授权结果"
+[  log    | 2017-09-25 15:50:31.037  |  1506325831037  |  01  ] : {"access_token":"A94jJCsTHNV8iR_v46P65Fdg6vPETLoxGxqNzkpTXRCsBIIssa7fcokJHwMVi5IIflZ-5FAPlXUkwMzuyO4T5A","expires_in":7200,"refresh_token":"EOSMMYfeeuSEGZseltAWPH_YyU1uua_wsed3TaWACKgNJbhkyp1EMVC1of7_osZrnyjWEZsq9RFHqgLltET4rg","openid":"oMPMC02M9ralQxzzM5gzSJOr3hJQ","scope":"snsapi_base"}
+-------------------------
+[  log    | 2017-09-25 15:50:31.045  |  1506325831045  |  00  ] : "manager_id"
+[  log    | 2017-09-25 15:50:31.045  |  1506325831045  |  01  ] : 0
+[  log    | 2017-09-25 15:50:31.045  |  1506325831045  |  02  ] : "fans_id"
+[  log    | 2017-09-25 15:50:31.045  |  1506325831045  |  03  ] : 54
+-------------------------
+[  log    | 2017-09-25 15:50:31.045  |  1506325831045  |  00  ] : "授权后回跳链接"
+[  log    | 2017-09-25 15:50:31.045  |  1506325831045  |  01  ] : "http://ssm.echao.com/ShareSpokesman/join?fans_id=54&source_fans_id=54&from=singlemessage&isappinstalled=0"
+-------------------------
+[  log    | 2017-09-25 15:50:31.045  |  1506325831045  |  00  ] : "邀请者"
+[  log    | 2017-09-25 15:50:31.045  |  1506325831045  |  01  ] : {"id":54,"manager_id":4,"shopowner_id":4,"clerk_id":54,"prolocutor_id":54,"is_clerk":"1","is_prolocutor":"1","fans_id":null,"openid":"oMPMC02M9ralQxzzM5gzSJOr3hJQ","unionid":null,"nickname":"六块的麻辣烫1","language":null,"sex":0,"province":null,"city":null,"country":null,"headimgurl":"static/2017-8-27/1503837101.jpeg","privilege":null,"scope":null,"subscribe":0,"subscribetime":0,"createtime":1503831045,"realname":null,"mobile":15625297028,"password":null,"password_hash":"0.886ba403900025","amount":0.03,"cash":0,"consume":0,"user_level":1,"token":"a56c42c0dd6173610294fd9cf4f8899d","is_manager":"1","is_shopowner":"1","coupon":null,"openid_jhkj":"ol7EHt_7dwgUmrOTMx3QJreuJSh0","t_text":null,"task_days":1506268800,"prolocutor_time":1505186118}
+-------------------------
+[  log    | 2017-09-25 15:50:31.057  |  1506325831057  |  00  ] : "更新粉丝信息"
+[  log    | 2017-09-25 15:50:31.057  |  1506325831057  |  01  ] : {"token":"faf09e1ac4ea92039259f2cb405db6c9"}
+-------------------------
+[  log    | 2017-09-25 15:50:31.060  |  1506325831060  |  00  ] : "目标参数"
+[  log    | 2017-09-25 15:50:31.060  |  1506325831060  |  01  ] : {"fans_id":54,"source_fans_id":54,"from":"singlemessage","isappinstalled":"0"}
+-------------------------
+[  log    | 2017-09-25 15:50:31.060  |  1506325831061  |  00  ] : "回跳到目标"
+[  log    | 2017-09-25 15:50:31.060  |  1506325831061  |  01  ] : "http://ssm.echao.com/ShareSpokesman/join?fans_id=54&source_fans_id=54&from=singlemessage&isappinstalled=0"
+-------------------------
+[  log    | 2017-09-25 15:50:40.368  |  1506325840369  |  00  ] : "重启"
+-------------------------
+[  log    | 2017-09-25 15:50:40.369  |  1506325840369  |  00  ] : "重启成功"

@@ -1,0 +1,27 @@
+electron.exe 是主程序, 
+
+自己的功能模块自己解决 
+功能模块放在目录 \resources\app\modules 下
+
+\resources\app\modules\test 下面是各种数据操作的演示, 说明比较清楚了, 自己看
+
+其中 test 是一个模块名, 请用下划线命名法!!!!  如：current_student_count
+
+模块下可以按功能来创建目录
+
+例如 :
+创建订单 order/add/default.js
+删除订单 order/delete/default.js
+更新订单 order/update/default.js
+获取订单 order/list/default.js
+
+default.js  这是所有接口最终功能完成的主文件, 
+
+
+
+相关文档: 
+
+	mysql 数据库模块
+	
+	http://blog.csdn.net/zxsrendong/article/details/17006185
+	https://github.com/mysqljs/mysql

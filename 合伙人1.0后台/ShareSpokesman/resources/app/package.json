@@ -1,0 +1,29 @@
+{
+  "name": "shares_spokesman",
+  "version": "1.0.0",
+  "description": "分享代言, 购物佣金返现",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": {
+    "name": "langtao",
+    "email": "i@lilangtao.com"
+  },
+  "dependencies": {
+    "child_process": "1.0.2",
+    "crypto": "0.0.3",
+    "ftp": "0.3.10",
+    "getmac": "1.2.1",
+    "moment": "2.18.1",
+    "multer": "^0.1.8",
+    "mysql": "2.13.0",
+    "multer": "0.1.8",
+    "body-parser": "1.17.2",
+    "express": "4.15.3",
+    "express-session": "1.15.5",
+    "cookie-parser": "1.4.3",
+    "node-uuid": "1.4.8",
+    "request": "2.81.0"
+  }
+}
